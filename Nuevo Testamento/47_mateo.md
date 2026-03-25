@@ -196,6 +196,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 [10] Entonces Jesús le dijo: "Vete, Satanás, porque está escrito: "Adorarás al Señor tu Dios, y a Él solo servirás".
 
 [11] Le dejó entonces el diablo, y he aquí que ángeles se acercaron para servirle.
+
 ## Ministerio de jesús en galilea
 
 #### Comienzo de la vida pública
