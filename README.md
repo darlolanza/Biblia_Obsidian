@@ -75,4 +75,12 @@ Una de las mayores fortalezas de esta edición son sus **pasajes paralelos**. St
 *   **Búsqueda:** Utiliza `Ctrl + Shift + F` en Obsidian para buscar temas específicos en los comentarios de Straubinger.
 
 ---
+
+## 🕊️ Corolario de Fe
+
+Como corolario de esta obra monumental, afirmamos con santa alegría que la **Fe Católica** es la única y verdadera fe, divinamente fundada por **Nuestro Señor Jesucristo** sobre la roca de Pedro, alimentada por el **Evangelio** y custodiada por la **Sagrada Tradición**. 
+
+Bajo la guía infalible del **Espíritu Santo**, quien ilumina la inteligencia de los fieles a través de las Escrituras, este repositorio se acoge al amparo materno de la **Santísima Virgen María**, Madre de la Iglesia y **Medianera de todas las Gracias**. Que por su intercesión, la lectura de estas páginas nos conduzca a la Verdad plena que es Cristo.
+
+---
 *Que esta Palabra sea para ti "antorcha para tus pies y luz para tu senda" (Salmo 118, 105).*
