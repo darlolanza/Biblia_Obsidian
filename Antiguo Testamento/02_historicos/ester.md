@@ -4,25 +4,6 @@ title: Ester
 permalink: /ester
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 El libro de Ester contiene una de las más emocionantes escenas de la Historia Sagrada. Habiendo el rey Asuero (Jerjes) repudiado a la reina Vasti, la judía Ester vino a ser su esposa y reina de Persia. Ella, confiada en Dios y sobreponiéndose a su debilidad, intercedió por su pueblo cuando el primer ministro Amán concibió el proyecto de exterminar a todos los judíos, comenzando por Mardoqueo, padre adoptivo de Ester. En un banquete, Ester descubrió al rey su nacionalidad hebrea y pidió protección para sí y para los suyos contra su perseguidor Amán. El rey concedió lo pedido: Amán fue colgado en el mismo patíbulo que había preparado para Mardoqueo, y el pueblo judío fue autorizado a vengarse de sus enemigos el mismo día en que según el edicto de Amán, debía ser aniquilado en el reino de los persas. En memoria de este feliz acontecimiento los judíos instituyeron la fiesta de Purim (Fiesta de las Suertes).

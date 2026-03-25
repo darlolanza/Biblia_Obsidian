@@ -4,25 +4,6 @@ title: Jueces
 permalink: /jueces
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 El Libro de los Jueces contiene la historia del período transcurrido entre la muerte de Josué y la judicatura de Samuel, o sea, hasta la implantación de la monarquía.

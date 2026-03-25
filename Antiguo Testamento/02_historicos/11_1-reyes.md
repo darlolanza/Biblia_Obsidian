@@ -4,24 +4,6 @@ title: III REYES (1 REYES)
 permalink: /1-reyes
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
 ## Introducción
 
 Los Libros III y IV de los Reyes que en algunas versiones se llaman libros I y II de los Reyes (porque los dos libros que preceden se llaman a veces libros de Samuel), han de considerarse como continuación de esos dos libros históricos a los cuales se agregan.

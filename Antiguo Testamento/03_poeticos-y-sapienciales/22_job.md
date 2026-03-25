@@ -4,26 +4,6 @@ title: Job
 permalink: /job
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
-
 INTRODUCCIÓN
 
 Con el libro de Job volvemos a los tiempos patriarcales. Job, un varón justo y temeroso de Dios, está acosado por tribulaciones de tal manera que, humanamente, ya no puede soportarlas. Sin embargo, no pierde la paciencia, sino que resiste a todas las tentaciones de desesperación, guardando la fe en la divina justicia y providencia, aunque no siempre la noticia del amor que Dios nos tiene, y de la bondad que viene de ese amor (1 Juan [4, 16](1-juan#c4-v16)) y según la cual no puede sucedernos nada que no sea para nuestro bien. Tal es lo que distingue a este santo varón del Antiguo Testamento, de lo que ha de ser el cristiano.

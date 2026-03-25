@@ -4,23 +4,6 @@ title: Evangelio según san Mateo
 permalink: /mateo
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
 ## Introducción
 
 De la vida de San Mateo, que antes se llamaba Leví, sabemos muy poco. Era publicano, es decir, recaudador de tributos, en Cafarnaúm, hasta que un día Jesús lo llamó al apostolado, diciéndole simplemente: "Sígueme"; y Leví "levantándose le siguió" (Mateo [9, 9](mateo#c9-v9)).

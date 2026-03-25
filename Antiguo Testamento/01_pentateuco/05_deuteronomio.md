@@ -4,23 +4,7 @@ title: Deuteronomio
 permalink: /deuteronomio
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
+# Deuteronomio [1]
 
 ## Primer discurso de moisés
 

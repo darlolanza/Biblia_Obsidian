@@ -4,25 +4,6 @@ title: Ezequiel
 permalink: /ezequiel
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Ezequiel, hijo de Buzí, de linaje sacerdotal, fue llevado cautivo a Babilonia junto con el rey Jeconías de Judá (597 a. C.) e internado en Tel-Abib a orillas del río Cobar. Cinco años después, a los treinta de su edad (cf. [1, 1](#c1-v1)), Dios lo llamó al cargo de profeta, que ejerció entre los desterrados durante 22 años, es decir, hasta el año 570 a. C.

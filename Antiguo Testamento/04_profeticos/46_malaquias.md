@@ -4,25 +4,6 @@ title: Malaquías
 permalink: /malaquias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Malaquías significa "Mensajero mío" (cf. [3, 1](#c3-v1) y nota), o "Ángel del Señor" (así lo llama la versión griega), y de ahí que Clemente Alejandrino, Orígenes y otros Padres, a falta de datos sobre la persona del profeta, lo tomasen por un ser celestial. Mas tal opinión no se funda en argumento real alguno; tampoco lo admiten los exégetas modernos. El Targum de Jonatán dice en cambio que Malaquías era simplemente un nombre adoptado por el mismo Esdras para escribir la profecía.

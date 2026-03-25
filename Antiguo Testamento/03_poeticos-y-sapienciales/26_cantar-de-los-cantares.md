@@ -4,25 +4,6 @@ title: Cantar de los Cantares
 permalink: /cantar-de-los-cantares
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 INTRODUCCIÓN
 
 El misterio que Dios esconde en los amores entre esposo y esposa, y que presenta como figura en este divino Poema, no ha sido penetrado todavía en forma que permita explicar satisfactoriamente el sentido propio de todos sus detalles. El breve libro es sin duda el más hondo arcano de la Biblia, más aún que el Apocalipsis, pues en este, cuyo nombre significa revelación, se nos comunica abiertamente que el asunto central de su profecía es la Parusía de Cristo y los acontecimientos que acompañarán aquel supremo día del Señor en que Él se nos revelará para que lo veamos "cara a cara". Aquí, en cambio, se trata de una gran Parábola o alegoría en la cual, excluida como se debe la interpretación mal llamada histórica, que quisiera ver en ella un epitalamio vulgar y sensual, aplicándolo a Salomón y la princesa de Egipto, no tenemos casi referencias concretas, salvo alguna (cf. [6, 4](#c6-v4) y nota), que permite con bastante firmeza ver en la Amada a Israel, esposa de Yahvé.

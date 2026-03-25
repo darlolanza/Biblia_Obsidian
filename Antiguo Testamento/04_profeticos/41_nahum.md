@@ -4,25 +4,6 @@ title: Nahúm
 permalink: /nahum
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Nahúm vivió en el siglo VII a. C.; según la tradición judía, bajo el rey Manasés (693-639), o quizá Josías (638-608), y profetizó contra Nínive, capital del reino de los asirios. Fuera de este oráculo no poseemos nada de su actividad profética, la cual está colocada entre la de Isaías, de quien cita varios pasajes (cf. [1, 4](#c1-v4)=Isaías [33, 9](isaias#c33-v9); [1, 15](isaias#c1-v15) = Isaías [52, 7](isaias#c52-v7); [3, 5](isaias#c3-v5) = Isaías [47, 3](isaias#c47-v3) y [9](isaias#c47-v9)); y la de Jeremías que, a la inversa, cita a nuestro profeta (cf. [1, 13](#c1-v13) = Jeremías [30, 8](jeremias#c30-v8); [3, 5](jeremias#c3-v5), [13, 17](book#c13-v17) y [19](book#c13-v19) = Jeremías [13, 12](jeremias#c13-v12) ss; [50, 37](jeremias#c50-v37); [51, 30](jeremias#c51-v30), etc.).

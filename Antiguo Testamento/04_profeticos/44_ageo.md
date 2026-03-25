@@ -4,22 +4,6 @@ title: Ageo
 permalink: /ageo
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 Con **Ageo** (en hebreo *Haggai*) empieza el periodo postexílico de la profecía de Israel, en el cual le acompañará Zacarías y le sucederá, casi un siglo más tarde, Malaquías. Como muchos otros de los profetas menores, Ageo no es conocido más que por algunas pocas noticias. Sus cuatro discursos se refieren todos al segundo año de Darío I (520 a. C.), y fueron pronunciados en menos de cuatro meses (cf. [1, 1](#c1-v1); [2, 11](#c2-v11) y [21](#c2-v21)).

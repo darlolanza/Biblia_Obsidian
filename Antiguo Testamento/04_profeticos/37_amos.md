@@ -4,25 +4,6 @@ title: Amós
 permalink: /amos
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Antes de su vocación, Amós fue pastor y labrador que apacentaba sus ovejas y cultivaba cabrahígos en Tecoa, localidad de la montaña de Judá, situada a 20 kilómetros al sur de Jerusalén. A pesar de su pertenencia al reino de Judá, Dios lo llamó al reino de Israel (cf. [1, 1](#c1-v1); [7, 14](#c7-v14) s.), para que predicase contra la corrupción moral y religiosa de aquel país cismático que se había separado de Judá y el Templo. Alguna vez menciona también a Judá ([2, 4](book#c2-v4)) y a todo el pueblo escogido ([9, 11](book#c9-v11)). Amós desempeñó su cargo en los días de Ocías (Azarías), rey de Judá (789-738) y Jeroboam II, rey de Israel (783-743).

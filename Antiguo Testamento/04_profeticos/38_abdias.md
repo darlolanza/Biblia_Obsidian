@@ -4,22 +4,6 @@ title: Abdías
 permalink: /abdias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 Son muy escasas las noticias que poseemos sobre **Abdías**, cuyo hombre hebreo *Obadyah* significa "siervo de Yahvé". San Jerónimo lo identifica con aquel Abdías, mayordomo de Acab, que alimentó a los cien profetas que habían huido del furor de Jezabel (1 Reyes [18, 2](1-reyes#c18-v2) ss.).

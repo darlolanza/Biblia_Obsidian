@@ -4,25 +4,6 @@ title: Zacarías
 permalink: /zacarias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 El nombre de Zacarías, común a más de veinte personajes del Antiguo Testamento, tiene en hebreo el hermoso significado de "Dios se acuerda", o "el recordado de Dios", es decir que su sola enunciación significaba un acto de fe en el Dios vivo.

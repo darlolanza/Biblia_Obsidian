@@ -4,25 +4,6 @@ title: Eclesiastés o Cohélet
 permalink: /eclesiastes
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 INTRODUCCIÓN
 
 Eclesiastés, en hebreo Kohélet, significa predicador, o sea el que habla en la Iglesia o Asamblea; nombre que corresponde por todos conceptos a su contenido, porque predica en forma de sentencias y consejos, en prosa y verso, la vanidad de las cosas creadas. Los bienes de este mundo son vanos; vanas por tanto todas las ambiciones, vana la ilusión de felicidad terrena fuera del sencillo bienestar; la verdadera felicidad consiste en temer, o sea reverenciar, a Dios nuestro Padre, y observar sus mandamientos para que en ellos hallemos la vida (Proverbios [4, 13](proverbios#c4-v13) y passim).

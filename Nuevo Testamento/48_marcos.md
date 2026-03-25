@@ -4,22 +4,6 @@ title: Evangelio según san Marcos
 permalink: /marcos
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 **Marcos**, que antes se llamaba Juan, fue hijo de aquella María en cuya casa se solían reunir los discípulos del Señor (Hechos [12, 12](hechos#c12-v12)). Es muy probable que la misma casa sirviera de escenario para otros acontecimientos sagrados, como la última Cena y la venida del Espíritu Santo.

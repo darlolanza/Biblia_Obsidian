@@ -4,22 +4,6 @@ title: Habacuc
 permalink: /habacuc
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 El libro de **Habacuc** no da detalles sobre la vida del profeta. Nada sabemos de su vida salvo el retrato psicológico que él mismo nos pinta en los tres capítulos de su Libro. Habacuc se muestra dominado por ciertas dudas respecto al porvenir de su pueblo y al reino de Dios, mas su confianza y su fe son mayores aún. Él es el justo "que vive de la fe" según esta profundísima sentencia que él nos dejó y que San Pablo cita tres veces. Cf. [2, 4](#c2-v4) y los últimos versículos del cap. [3](#c3).

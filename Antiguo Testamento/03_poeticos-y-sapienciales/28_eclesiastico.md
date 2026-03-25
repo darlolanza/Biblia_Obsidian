@@ -4,22 +4,6 @@ title: Eclesiástico o Ben Sirá
 permalink: /eclesiastico
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 El nombre de este libro: "El Eclesiástico", es debido al constante uso que de él se hacía en la Iglesia, especialmente en la instrucción del pueblo y de los catecúmenos que iban a ser bautizados. Basta este nombre para mostrarnos el aprecio que la Iglesia tenía de su utilidad como arsenal de doctrina y de piedad; y para darnos idea de lo familiarizados que estaban los fieles en los tiempos de fe, con el conocimiento de este divino tesoro de sabiduría. El nombre de "Libro de Jesús, hijo de Sirac", o "Sabiduría de Sirac", le viene de su autor Jesús (Josué), descendiente de un cierto Sirac ([50, 29](book#c50-v29)) que vivía en Palestina al comienzo del siglo II a. C.

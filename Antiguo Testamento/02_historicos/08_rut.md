@@ -4,22 +4,6 @@ title: Rut
 permalink: /rut
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 El libro de Rut es como un suplemento de los Jueces y una introducción a los Reyes. Contiene la encantadora historia de una familia del tiempo de los Jueces. La moabita Rut, peregrina con su suegra Noemí desde el país de Moab a la patria de esta y se casa con Booz, un rico pariente de su marido. Los dos, Booz y Rut, aparecen en la genealogía de Cristo (Mateo [1, 5](mateo#c1-v5)).

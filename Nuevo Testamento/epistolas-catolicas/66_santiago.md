@@ -4,22 +4,6 @@ title: Carta del apóstol Santiago
 permalink: /santiago
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 La carta de Santiago es la primera entre las siete Epístolas no paulinas que, por no señalar varias de ellas un destinatario especial, han sido llamadas genéricamente católicas o universales, aunque en rigor la mayoría de ellas se dirige a la cristiandad de origen judío, y las dos últimas de S. Juan tienen un encabezamiento aún más limitado. S. Jerónimo las caracteriza diciendo que "son tan ricas en misterios como sucintas, tan breves en palabras como largas en sentencias".

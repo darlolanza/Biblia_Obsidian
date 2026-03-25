@@ -4,15 +4,6 @@ title: Introducción a las cartas de san Pedro
 permalink: /cartas-de-san-pedro
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
 <!-- ## Introducción -->
 
 Simón Bar Jona (hijo de Jonás), el que había de ser San **Pedro** (Hechos [15, 14](hechos#c15-v14); 2 Pedro [1, 1](2-pedro#c1-v1)), fue llamado al apostolado en los primeros días de la vida pública del Señor, quien le dio el nombre de Cefas (en arameo *Kefa*), o sea, "piedra", de donde el griego *Petros*, Pedro (Juan [1, 42](juan#c1-v42)). Vemos en Mateo [16, 17](mateo#c16-v17)-19, cómo Jesús lo distinguió entre los otros discípulos, haciéndolo "Príncipe de los Apóstoles" (Juan [21, 15](juan#c21-v15) ss.). S. Pablo nos hace saber que a él mismo, como Apóstol de los Gentiles, Jesús le había encomendado directamente (Gálatas [1, 11](galatas#c1-v11) s.) el evangelizar a estos, mientras que a Pedro, como a Santiago y a Juan, la evangelización de los circuncisos o israelitas (Gálatas [2, 7](galatas#c2-v7)-9; cf. Santiago [1, 1](santiago#c1-v1) y nota).

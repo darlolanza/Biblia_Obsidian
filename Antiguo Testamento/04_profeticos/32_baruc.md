@@ -4,25 +4,6 @@ title: Baruc
 permalink: /baruc
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 En el canon se agrega a las Lamentaciones el pequeño y bellísimo libro de Baruc, en hebreo "Bendito", cuyo texto original se ha perdido, pero que nos ha llegado en la versión griega de los Setenta, cuyos autores, judíos, lo admitían por lo tanto, como auténtico y canónico.

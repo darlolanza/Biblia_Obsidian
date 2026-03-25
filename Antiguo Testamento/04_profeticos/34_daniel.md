@@ -4,25 +4,6 @@ title: Daniel
 permalink: /daniel
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Daniel, a quien la misma Biblia cita como prototipo de santidad (Ezequiel [14, 14](ezequiel#c14-v14) y [20](ezequiel#c14-v20)) y de sabiduría (Ezequiel [28, 3](ezequiel#c28-v3)), vivió, como Ezequiel, en Babilonia durante el cautiverio, pero no fue sacerdote que adoctrinase al pueblo como aquel, y como Jeremías en Jerusalén, sino un alto personaje en la corte de un rey pagano, como fueron José en Egipto y Ester y Mardoqueo en Persia. De ahí sin duda que la Biblia hebrea lo colocase más bien entre los hagiógrafos (aunque no siempre) y que el Talmud viese en él una figura del Mesías por su fidelidad en las persecuciones.

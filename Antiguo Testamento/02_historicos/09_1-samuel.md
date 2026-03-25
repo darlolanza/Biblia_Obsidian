@@ -4,25 +4,6 @@ title: I REYES (1 SAMUEL)
 permalink: /1-samuel
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Los cuatro libros de los Reyes se refieren a la monarquía de Israel y de Judá, que duró unos 450 años, hasta el cautiverio de Babilonia. Los dos primeros, llamados también I y II de Samuel, relatan la historia de Israel desde el nacimiento de Samuel hasta la muerte de David.

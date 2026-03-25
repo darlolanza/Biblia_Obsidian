@@ -4,22 +4,6 @@ title: Sofonías
 permalink: /sofonias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
 ## Introducción
 
 **Sofonías**, contemporáneo de Habacuc, descendiente directo, según parece decirlo él mismo, del santo rey Ezequías (cf. [1, 1](#c1-v1)), profetizó durante el reinado de Josías (638-608), probablemente antes o en el curso de la reforma del culto que llevó a cabo este otro santo rey.

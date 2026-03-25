@@ -4,24 +4,6 @@ title: Evangelio según san Lucas
 permalink: /lucas
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
 ## Introducción
 
 El autor del tercer Evangelio, "Lucas, el médico" (Colosenses [4, 14](colosenses#c4-v14)), era un sirio nacido en Antioquía, de familia pagana. Tuvo la suerte de convertirse a la fe de Jesucristo y encontrarse con San Pablo, cuyo fiel compañero y discípulo fue por muchos años, compartiendo con él hasta la prisión en Roma.

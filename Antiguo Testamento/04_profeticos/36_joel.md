@@ -4,25 +4,6 @@ title: Joel
 permalink: /joel
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 De Joel, profeta de Judá e hijo de Fatuel, nada sabemos fuera de los tres capítulos de profecías que llevan su nombre. El tiempo de su actividad ha de ser calculado después de separarse de la casa de David las diez tribus, pero antes del destierro. El hecho de que solamente se mencionen los sacerdotes, y no los reyes, hace conjeturar que Joel haya escrito en tiempos del rey Jais de Judá (836-791) cuando el Sumo Sacerdote Joiadá en nombre del rey niño manejaba las riendas del gobierno (IV Reyes 11). Una minoría de exégetas ubican a Joel en el período después del destierro, fundándose especialmente en 3, 6 donde se mencionan los griegos (cf. Nácar-Colunga). Su anuncio, como dice este mismo autor, es escatológico, cosa que no debe olvidarse al interpretarlo.
 

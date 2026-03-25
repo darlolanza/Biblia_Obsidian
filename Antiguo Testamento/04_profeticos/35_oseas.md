@@ -4,25 +4,6 @@ title: Oseas
 permalink: /oseas
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Con Oseas comienza la serie de los doce Profetas Menores. Se llaman Menores no porque fuesen profetas de una categoría menor, sino por la escasa extensión de sus profecías, con relación a los Profetas Mayores.

@@ -4,25 +4,6 @@ title: Tobías
 permalink: /tobias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 El Libro de Tobías es una deliciosa historia, de esas que la delicadeza de Dios parece haber puesto como cebo para encariñarnos con la lectura de la Sagrada Biblia, río de la gracia divina, que procede del Trono de Dios y del Cordero (Apocalipsis [22, 1](apocalipsis#c22-v1)), como la llama el Papa Benedicto XV, en pos de San Jerónimo.

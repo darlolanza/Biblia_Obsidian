@@ -4,15 +4,6 @@ title: Introducción a los Libros Poéticos y Sapienciales
 permalink: /libros-poeticos-y-sapienciales
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
 <!-- ## Introducción -->
 
 A los libros históricos sigue, en el Canon del Antiguo Testamento, el grupo de los libros llamados *didácticos* (por su enseñanza) o *poéticos* (por su forma) o *sapienciales* (por su contenido espiritual), que abarca los siguientes libros: **Job**, **Salmos**, **Proverbios**, **Eclesiastés**, **Cantar de los Cantares**, **Sabiduría**, **Eclesiástico**.

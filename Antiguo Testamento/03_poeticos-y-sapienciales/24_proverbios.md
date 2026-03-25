@@ -4,25 +4,6 @@ title: Proverbios
 permalink: /proverbios
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 INTRODUCCIÓN
 
 El Libro de los Proverbios no es un código de obligaciones, sino un tratado de felicidad. Dios no habla para ser obedecido como déspota, sino para que le creamos cuando nos entrega, por boca del más sabio de los hombres, los más altos secretos de la Sabiduría (en hebreo jokmah). Se trata de una sabiduría eminentemente práctica, que desciende a veces a los detalles, enseñándonos aun, por ejemplo, a evitar las fianzas imprudentes (cf. [6, 1](#c6-v1) y nota; 17, 18 y los pasajes concordantes que allí señalamos); a desconfiar de las fortunas improvisadas ([13, 11](book#c13-v11); [20, 21](book#c20-v21)); del crédito ([22, 7](book#c22-v7)) y de los hombres que adulan o prometen grandes cosas ([20, 19](book#c20-v19)); a no frecuentar demasiado la casa del amigo, porque es propio de la naturaleza humana que él se harte de nosotros y nos cobre aversión ([25, 17](book#c25-v17)). Otras veces nos descubre las más escondidas miserias del corazón humano (verbigracia, [28, 13](book#c28-v13); [29, 19](book#c29-v19), etc.), y no vacila en usar expresiones cuya exactitud va acompañada de un exquisito humorismo; verbigracia, el comparar la belleza en una mujer insensata, con un anillo de oro en el hocico de un cerdo ([11, 22](book#c11-v22)).

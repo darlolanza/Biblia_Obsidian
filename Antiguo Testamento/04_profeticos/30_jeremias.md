@@ -4,24 +4,6 @@ title: Jeremías
 permalink: /jeremias
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
 ## Introducción
 
 En cuanto a los datos biográficos, Jeremías es el menos ignorado entre todos los profetas de Israel. Hijo del sacerdote Helcías, nació en Anatot, a 4 kilómetros al norte de Jerusalén, y fue destinado por Dios desde el seno materno para el cargo de Profeta ([1, 5](book#c1-v5)). Empezó a ejercer su altísima misión en el decimotercio año del rey Josías (638-608) es decir, en 625. Durante más de 40 años, bajo los reyes Josías, Joacaz, Joakim, Joaquín (Jeconías) y Sedecías siguió amonestando y consolando a su pueblo, hasta que la ciudad impenitente cayó en poder de los babilonios (581 a. C.).

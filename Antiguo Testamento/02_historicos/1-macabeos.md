@@ -4,25 +4,6 @@ title: I Macabeos
 permalink: /1-macabeos
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Los dos Libros de los Macabeos son los últimos del Antiguo Testamento, cronológicamente posteriores a los de Esdras y Nehemías, que señalan el retorno de Babilonia. Han recibido su nombre del tercer hijo del sacerdote Matatías: Judas, a quien por su valentía fue dado el sobrenombre de "Makkébet" (martillo). Ese apodo pasó a los hermanos de Judas y a toda su familia que antiguamente se llamaba de los Hasmoneos, por Hasmonai, bisabuelo de Matatías.

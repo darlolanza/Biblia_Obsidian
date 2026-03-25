@@ -4,25 +4,6 @@ title: Esdras
 permalink: /esdras
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 Los dos libros de Esdras y Nehemías que originariamente formaron un todo, constituyen la continuación de los Paralipómenos, retomando en su primer capítulo el edicto de Ciro, con el cual termina el segundo libro de los Paralipómenos.

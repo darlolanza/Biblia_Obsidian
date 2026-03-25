@@ -4,25 +4,6 @@ title: Jonás
 permalink: /jonas
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 No hay motivo para dudar que Jonás es el mismo profeta hijo de Amati o Amitai (cf. [1, 1](#c1-v1)) que en tiempo de Jeroboam II (783-743 a. C.) predijo una victoria sobre los asirios (2 Reyes [14, 25](2-reyes#c14-v25)). La tradición judía cree que fue también el que ungió al rey Jehú por encargo del profeta Eliseo (2 Reyes [9, 1](2-reyes#c9-v1) ss.).

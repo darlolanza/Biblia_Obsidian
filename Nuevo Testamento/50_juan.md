@@ -4,23 +4,6 @@ title: Evangelio según san Juan
 permalink: /juan
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
 ## Introducción
 
 San Juan, natural de Betsaida de Galilea, fue hermano de Santiago el Mayor, hijos ambos de Zebedeo, y de Salomé, hermana de la Virgen Santísima. Siendo primeramente discípulo de San Juan Bautista y buscando con todo corazón el reino de Dios, siguió después a Jesús, y llegó a ser pronto su discípulo predilecto. Desde la Cruz, el Señor le confió su Santísima Madre, de la cual Juan, en adelante, cuidó como de la propia.

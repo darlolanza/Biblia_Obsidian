@@ -4,25 +4,6 @@ title: Miqueas
 permalink: /miqueas
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
-
 ## Introducción
 
 La Sagrada Escritura conoce dos profetas que llevan el nombre de Miqueas o Mica; uno que vivió en el reino de Israel (1 Reyes [22, 8](1-reyes#c22-v8) ss.) en tiempos del rey Acab (813-854), y otro que profetizó en el reino de Judá (Jeremías [26, 18](jeremias#c26-v18)), reinando Joatam (738-736), Acaz (736-721) y Exequias (721-693). Este segundo nos dejó el presente libro. De su vida solamente sabemos que era oriundo de Morasti (Moréset), pequeño lugar situado cerca de Eleuterópolis (hoy Beit Dschibrin) al suroeste de Jerusalén. La Iglesia lo venera como mártir y celebra su fiesta el 15 de enero.

@@ -4,24 +4,6 @@ title: Sabiduría
 permalink: /sabiduria
 ---
 
-<div class="navigation">
-   <input type="button" popovertarget="toc" value="Contenido">
-   <input type="button" popovertarget="books" value="Libros">
-</div>
-
-<div id="books" markdown="1" popover>
-
-   {% include book-list.md %}
-</div>
-
-<div id="toc" markdown="1" popover>
-
-   - Tabla de contenido
-   {:toc}
-</div>
-
-
-
 ## Introducción
 
 El Libro de la Sabiduría forma juego con los libros de los Proverbios y Eclesiastés. Trata de la Sabiduría, pero presentándola no ya como aquel —en forma de virtud de orden práctico que desciende al detalle de los problemas temporales—, ni tampoco, según hace este, como un concepto general y anti-humanista de la vida, en sí misma, sino como una sabiduría toda espiritual y sobrenatural, verdadero secreto revelado amorosamente por Dios. Más que otros libros del Antiguo Testamento, tiene este por objeto inculcar a los reyes y dirigentes la noción de su cometido, su alto destino y su tremenda responsabilidad ante Dios, y a todos la admiración y el amor de la sabiduría, la cual aparece dotada de personalidad y atributos divinos, como que no es sino el Verbo eterno del Padre, que había de encarnarse por obra del Espíritu Santo para revelarse a los hombres.
