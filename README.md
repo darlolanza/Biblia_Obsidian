@@ -71,7 +71,7 @@ Una de las mayores fortalezas de esta edición son sus **pasajes paralelos**. St
 ## 🚀 Cómo usar este Vault
 
 *   **Navegación:** Utiliza el [[Prólogo]] para entender la visión del autor.
-*   **Libros:** Los archivos están organizados por testamentos y capítulos.
+*   **Libros:** Explora la Biblia completa a través del [[Índice de Libros]].
 *   **Búsqueda:** Utiliza `Ctrl + Shift + F` en Obsidian para buscar temas específicos en los comentarios de Straubinger.
 
 ---
