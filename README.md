@@ -84,3 +84,9 @@ Bajo la guía infalible del **Espíritu Santo**, quien ilumina la inteligencia d
 
 ---
 *Que esta Palabra sea para ti "antorcha para tus pies y luz para tu senda" (Salmo 118, 105).*
+
+---
+
+## 🙏 Agradecimientos
+
+Agradecemos profundamente el trabajo previo que hizo posible esta edición. La base de este repositorio está tomada de: [materialknight](https://github.com/materialknight).
