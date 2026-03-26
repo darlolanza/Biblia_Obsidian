@@ -6,18 +6,23 @@ Bienvenido a esta edición digital para Obsidian de la **Sagrada Biblia**, en la
 
 ## 📑 Niveles de Lectura
 
-> [!abstract] **Nivel 1: Introducción Rápida**
+> [!IMPORTANT]
+> **Nivel 1: Introducción Rápida**
 > Para quienes buscan una guía rápida sobre qué es este repositorio y por qué es especial.
 > - **Traducción:** Directa de los textos originales (Hebreo y Griego).
 > - **Notas:** Extensas y profundas notas teológicas y espirituales.
 > - **Origen:** Realizada en La Plata, Argentina (1944-1951).
 
-> [!info] **Nivel 2: Historia y Contexto**
+
+> [!NOTE]
+> **Nivel 2: Historia y Contexto**
 > Un recorrido por la vida de Mons. Straubinger y el nacimiento de esta edición.
 > - **El autor:** Un sacerdote alemán exiliado que trajo la ciencia bíblica europea a América.
 > - **Hito:** Fue la primera traducción católica completa hecha en suelo americano desde las lenguas originales.
 
-> [!tip] **Nivel 3: Profundidad Teológica**
+
+> [!TIP]
+> **Nivel 3: Profundidad Teológica**
 > Análisis de por qué esta versión es considerada una de las más fieles a la Tradición.
 > - **Método Patrístico:** Interpretación basada en los Padres de la Iglesia.
 > - **Unidad Bíblica:** Énfasis en cómo el Nuevo Testamento está latente en el Antiguo.
