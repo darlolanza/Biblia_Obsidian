@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Apocalipsis
-permalink: /apocalipsis
+aliases: [Apocalipsis]
 ---
 
 ## Introducción
@@ -21,8 +20,6 @@ Tres son los sistemas principales para interpretar el Apocalipsis. El primero lo
 Debemos además tener presente que este sagrado vaticinio significa también una exhortación a estar firmes en la fe y gozosos en la esperanza, aspirando a los misterios de la felicidad prometida para las Bodas del Cordero. Sobre ellos dice S. Jerónimo: "el Apocalipsis de S. Juan contiene tantos misterios como palabras; y digo poco con esto, pues ningún elogio puede alcanzar el valor de este Libro, donde cada palabra de por sí abarca muchos sentidos". En cuanto a la importancia del estudio de tan alta y definitiva profecía, nos convence ella misma al decirnos, tanto en su prólogo como en su epílogo, que hemos de conservar las cosas escritas en ella porque "el momento está cerca ([1, 3](book#c1-v3); [22, 7](book#c22-v7)). Cf. 1 Tesalonicenses [5, 20](1-tesalonicenses#c5-v20); Hebreos [10, 37](hebreos#c10-v37) y notas. "No sea que volviendo de improviso os halle dormidos. Lo que os digo a vosotros lo digo a todos: ¡Velad!" (Marcos [13, 36](marcos#c13-v36)-37). A "esta vela que espera y a esta esperanza que vela" se ha atribuido la riqueza de la vida sobrenatural de la primitiva cristiandad (cf. Santiago [5, 8](santiago#c5-v8) y nota).
 
 En los 404 versículos del Apocalipsis se encuentran 518 citas del Antiguo Testamento, de las cuales 88 tomadas de Daniel. Ello muestra sobradamente que en la misma Biblia es donde han de buscarse luces para la interpretación de esta divina profecía, y no es fácil entender cómo en visiones que S. Juan recibió transportado al cielo ([4, 1](book#c4-v1) s.) pueda suponerse que nos haya ya dejado, en los 24 ancianos, "una transposición angélica de las 24 divinidades babilónicas de las constelaciones que presidían a las épocas del año", ni cómo, en las langostas de la 5ª trompeta, podría estar presente "la imaginería de los centauros" etc. Confesamos que, estimando sin restricciones la labor científica y crítica en todo cuanto pueda allegar elementos de interpretación al servicio de la Palabra divina, no entendemos cómo la respetuosa veneración que se le debe pueda ser compatible con los juicios que atribuyen al autor incoherencias, exageraciones, artificios y fallas de estilo y de método, como si la inspiración no le hubiese asistido también en la redacción, si es verdad que, como lo declara el Concilio Vaticano, confirmando el de Trento, la Biblia toda debe atribuirse a Dios como primer autor.
-
-
 
 ### PRÓLOGO
 
@@ -1007,7 +1004,6 @@ En los 404 versículos del Apocalipsis se encuentran 518 citas del Antiguo Testa
 [20] El que da testimonio de esto dice: "Sí, vengo pronto". ¡Así sea: ven, Señor Jesús!
 
 [21] La gracia del Señor Jesús sea con todos los santos. Amén.
-
 
 ## Comentarios de Mons. Straubinger
 

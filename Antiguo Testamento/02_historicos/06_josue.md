@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Josué
-permalink: /josue
+aliases: [Josué]
 ---
 
 ## Introducción
@@ -17,8 +16,6 @@ El libro fue redactado antes del establecimiento de la monarquía en Israel, pue
 El objeto del Libro de Josué es mostrar la fidelidad de Dios en el cumplimiento de su promesa de dar a su pueblo la tierra de Canaán.
 
 Los datos del Libro de Josué son confirmados indirectamente por las tablas cuneiformes del archivo de Tell el-Amarna, las que describen la situación política de entonces de la misma manera que el Libro sagrado. No había gobierno central ni jefe superior, sino que una multitud de reyezuelos vivían entre sí en constante hostilidad y solo se unían cuando un común y poderoso enemigo los amenazaba.
-
-
 
 ## Conquista de canaán
 
@@ -1505,7 +1502,6 @@ Los datos del Libro de Josué son confirmados indirectamente por las tablas cune
 [32] Los huesos de José, que los hijos de Israel habían traído de Egipto, los enterraron en Siquem, en aquella parte del campo que Jacob había comprado por cien monedas a los hijos de Hemor, padre de Siquem, y fueron posesión de los hijos de José.
 
 [33] Murió Eleazar, hijo de Aarón, y le enterraron en Gabaa, (propiedad) de su hijo Finés, la cual le había sido dada en la montaña de Efraím.
-
 
 ## Comentarios de Mons. Straubinger
 <!--Total de referencias: 158-->

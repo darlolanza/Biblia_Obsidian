@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Efesios
-permalink: /efesios
+aliases: [Efesios]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

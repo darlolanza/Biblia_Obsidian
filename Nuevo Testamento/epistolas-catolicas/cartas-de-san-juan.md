@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción a las cartas de san Juan
-permalink: /cartas-de-san-juan
 ---
 
 <!-- ## Introducción -->

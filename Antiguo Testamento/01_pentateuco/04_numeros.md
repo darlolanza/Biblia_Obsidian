@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Números
-permalink: /numeros
+aliases: [Números]
 ---
-
-# Números [1]
 
 ## Preparativos para salir del desierto
 

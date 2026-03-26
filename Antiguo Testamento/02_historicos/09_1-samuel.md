@@ -1,7 +1,6 @@
 ---
-layout: page
 title: I REYES (1 SAMUEL)
-permalink: /1-samuel
+aliases: [1 Samuel]
 ---
 
 ## Introducción
@@ -21,8 +20,6 @@ San Jerónimo encarece la lectura de los libros de los Reyes, porque es fácil c
 Esta divina historia es como un bosquejo de todo cuanto ha sucedido en el mundo desde aquel tiempo hasta hoy. Mudados los nombres, la substancia es la misma. "Se descubre por todas partes aquella providencia paternal, aquel poder y sabiduría eterna, que todo lo dispensa, ordena y endereza al fin y cumplimiento de sus altísimos designios. En cada página se nos muestra al Señor como un Dios santo, benéfico, misericordioso, siempre pronto a perdonar las faltas de los que arrepentidos recurren a su clemencia" (Scío).
 
 El personaje que se destaca en toda esta historia es David, el gran amigo, de Dios y figura de Cristo que descendió de él según la carne.
-
-
 
 ## El profeta samuel
 
@@ -71,7 +68,6 @@ El personaje que se destaca en toda esta historia es David, el gran amigo, de Di
 [19] A la mañana se levantaron muy temprano, y después de postrarse ante Yahvé regresaron y vinieron a su casa, a Rama. Y Elcaná conoció a Ana, su mujer, y Yahvé se acordó de ella.
 #### Nacimiento de Samuel
 
-
 [20] Con el correr de los días, Ana que había concebido, dio a luz un hijo y le puso por nombre Samuel, diciendo: "porque de Yahvé lo he impetrado."
 
 [21] Cuando después su marido Elcaná subió con toda su familia, para ofrecer a Yahvé el sacrificio anual, y para cumplir su voto,
@@ -91,9 +87,6 @@ El personaje que se destaca en toda esta historia es David, el gran amigo, de Di
 [27] Estaba rogando por este niño, y Yahvé me ha otorgado lo que le pedí.
 
 [28] Por eso yo por mi parte lo doy a Yahvé. Todos los días de su vida, será consagrado a Yahvé." Y se prosternaron allí ante Yahvé.
-
-
-
 
 ### 1 Samuel [2]
 
@@ -178,7 +171,6 @@ El personaje que se destaca en toda esta historia es David, el gran amigo, de Di
 [35] Suscitaré para Mí un sacerdote fiel, que obrará según mi corazón y según mi alma; y voy a edificarle casa estable, y él andará delante de mí Ungido para siempre.
 
 [36] Y todo aquel que quede de tu casa vendrá, y se postrará delante de él, para (pedir) una monedita de plata y una torta de pan, diciendo: 'Admíteme por favor a algún ministerio sacerdotal, para que tenga un bocado de pan'." 
-
 
 ### 1 Samuel [3]
 
@@ -449,7 +441,6 @@ El personaje que se destaca en toda esta historia es David, el gran amigo, de Di
 [21] Oyó Samuel todas las palabras del pueblo, y las repitió a Yahvé.
 
 [22] Y Yahvé dijo a Samuel: "Escucha su voz, y pon sobre ellos un rey." Entonces dijo Samuel a los hijos de Israel: "Váyase cada cual a su ciudad."
-
 
 ### 1 Samuel [9]
 
@@ -1223,7 +1214,6 @@ El personaje que se destaca en toda esta historia es David, el gran amigo, de Di
 
 #### Jonatán consuela a David
 
-
 [1] David huyó de Nayot de Ramá, y llegado que hubo a Jonatán, le dijo: "¿Qué he hecho yo? ¿Cuál es mi crimen y cuál mi pecado delante de tu padre, para que él busque mi vida?"
 
 [2] Le respondió: "De ninguna manera has de morir. Mira, mi padre no hace cosa alguna, ni grande ni chica, sin darme de ello aviso. ¿Por qué me habría de encubrir esto mi padre? No puede ser."
@@ -1768,7 +1758,6 @@ Se levantó entonces David y bajó al desierto de Farán.
 
 #### David es excluido del combate
 
-
 [1] Los filisteos concentraron todo su ejército en Afee, mientras Israel estaba acampado junto a la fuente de Jesreel.
 
 [2] Los príncipes de los filisteos avanzaban a la cabeza de sus centenas y miles, mas David y sus hombres marchaban a retaguardia con Aquís.
@@ -1894,11 +1883,6 @@ Se levantó entonces David y bajó al desierto de Farán.
 [12] todos los hombres valientes se levantaron y después de marchar durante toda la noche quitaron el cadáver de Saúl y los cadáveres de sus hijos, del muro de Betsán, y se volvieron a Jabés, donde los quemaron.
 
 [13] Después tomaron sus huesos y los sepultaron bajo el tamarisco de Jabés y ayunaron siete días.
-
-
-
-
-
 
 ## Comentarios de Mons. Straubinger
 

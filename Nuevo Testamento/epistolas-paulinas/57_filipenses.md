@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Filipenses
-permalink: /filipenses
+aliases: [Filipenses]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

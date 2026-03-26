@@ -1,7 +1,6 @@
 ---
-layout: page
 title: IV REYES (2 REYES)
-permalink: /2-reyes
+aliases: [2 Reyes]
 ---
 
 ## Los dos reinos hasta la caída de samaria
@@ -9,7 +8,6 @@ permalink: /2-reyes
 ### 2 Reyes [1]
 
 #### Ococías de Israel y Elías
-
 
 [1] Después de la muerte de Acab, se rebeló Moab contra Israel.
 
@@ -1670,7 +1668,6 @@ permalink: /2-reyes
 [29] Le cambió sus vestidos de preso, y (Joaquín) comía siempre en su presencia, todos los días de su vida.
 
 [30] Le fue dado su sustento de parte del rey, en forma perpetua, según la necesidad de cada día, durante todo el tiempo de su vida.
-
 
 ## Comentarios de Mons. Straubinger
 <!--Total de referencias: 223-->

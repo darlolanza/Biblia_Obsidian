@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Deuteronomio
-permalink: /deuteronomio
+aliases: [Deuteronomio]
 ---
-
-# Deuteronomio [1]
 
 ## Primer discurso de moisés
 
@@ -2189,8 +2186,6 @@ permalink: /deuteronomio
 [11] ni en cuanto a todas las señales y maravillas que Yahvé le mandó hacer en el país de Egipto, contra el Faraón, sus siervos y todo su país,
 
 [12] ni en cuanto a todas las obras poderosas y terribles prodigios que Moisés hizo a la vista de todo Israel.
-
-
 
 ## Comentarios de Mons. Straubinger
 

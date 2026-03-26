@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Levítico
-permalink: /levitico
+aliases: [Levítico]
 ---
-
-# Levítico [1]
 
 ## Leyes de culto
 
@@ -1919,7 +1916,6 @@ permalink: /levitico
 [33] No se escogerá entre animal bueno o malo, ni se ha de trocar; y si hiciere trueque, tanto el animal trocado como su sustituto serán cosas santas; no podrán ser rescatados."
 
 [34] Estos son los mandamientos que Yahvé dio a Moisés para los hijos de Israel en el monte Sinaí.
-
 
 <!--Total de referencias: 177-->
 <!--Rango original de referencias: 723 - 899-->

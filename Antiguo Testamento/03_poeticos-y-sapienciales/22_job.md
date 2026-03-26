@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Job
-permalink: /job
+aliases: [Job]
 ---
 
 INTRODUCCIÓN
@@ -21,9 +20,6 @@ El autor inspirado que compuso el poema, reuniendo en forma sumamente artística
 Job, cubierto de llagas, insultado por sus amigos, padeciendo sin culpa, y presentando a Dios quejas tan desgarradoras como confiadas, es imagen de Jesucristo, y solo así podemos descubrir el abismo de este Libro que es una maravillosa prueba de nuestra fe. Porque toda la fuerza de la razón nos lleva a pensar que hay injusticia en la tortura del inocente. Y es Dios mismo quien se declara responsable de esas torturas. Esta prueba nos hace penetrar en el gran misterio de "injusticia" que el amor infinito del Padre consumó a favor nuestro: hacer sufrir al Inocente, por salvar a los culpables. ¡Y el castigado era SU HIJO único!
 
 Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job y comprenden sucesivamente los siguientes pasajes: [7, 16](book#c7-v16)-21; [10, 1](book#c10-v1)-7, 8-12; [13, 22](book#c13-v22)-28; [14, 1](book#c14-v1)-6, 13-16; 17, 1-[3, 11](book#c3-v11)-15; [19, 20](book#c19-v20)-27; 10, 18-22.
-
-
-
 
 #### PRÓLOGO
 
@@ -2355,10 +2351,7 @@ Las lecciones del Oficio de Difuntos están tomadas totalmente del Libro de Job 
 
 [16] Job vivió después de esto ciento cuarenta años; y vio a sus hijos y a los hijos de sus hijos hasta la cuarta generación. Y murió Job anciano y colmado de días.
 
-
 ## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 371-->
 <!--Rango original de referencias: 3840 - 4210-->
-
-

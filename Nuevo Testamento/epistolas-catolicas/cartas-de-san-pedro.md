@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción a las cartas de san Pedro
-permalink: /cartas-de-san-pedro
 ---
 
 <!-- ## Introducción -->

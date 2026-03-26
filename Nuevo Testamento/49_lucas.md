@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Evangelio según san Lucas
-permalink: /lucas
+aliases: [Lucas]
 ---
 
 ## Introducción

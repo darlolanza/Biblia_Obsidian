@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Baruc
-permalink: /baruc
+aliases: [Baruc]
 ---
 
 ## Introducción
@@ -17,8 +16,6 @@ Después de la caída de Jerusalén Baruc acompañó a Jeremías a Egipto (Jerem
 La autoridad canónica del libro que algunos intentaron negar, está asegurada por la Tradición y por la solemne decisión del Concilio Tridentino.
 
 El texto hebreo se ha perdido. Por eso seguimos la Vulgata.
-
-
 
 ## Baruc [1](#c1) {#c1}
 
@@ -488,11 +485,7 @@ Copia de la carta que envió Jeremías a los que habían de ser llevados cautivo
 
 [72] Mejor es, pues, el varón justo, que no tiene ídolos; porque está bien lejos de la ignominia.
 
-
-
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 61-->
 <!--Rango original de referencias: 8487 - 8547-->

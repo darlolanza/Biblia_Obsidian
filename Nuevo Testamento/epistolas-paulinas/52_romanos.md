@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Romanos
-permalink: /romanos
+aliases: [Romanos]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -1016,7 +1015,6 @@ permalink: /romanos
 
 ## Comentarios de Mons. Straubinger
 
-
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) San Pablo escribió esta Carta desde Corinto, a principios del año 58, con el ánimo de preparar su viaje a Roma, acreditando sus títulos ante esos fieles, que no lo conocían aún. Muchos la consideran posterior a la Epístola a los Gálatas (cf. Gálatas [2, 1](galatas#c2-v1) y nota), pero es sin duda anterior a la Carta a los Efesios y demás Epístolas llamadas de la cautividad, que fueron escritas al final del tiempo de los Hechos, durante la primera prisión del apóstol en Roma (años 61-63), es decir, después de su paso definitivo a los gentiles (Hechos [28, 23](hechos#c28-v23) ss. y notas).
 
 El apóstol explica en la *primera* parte (caps. [1](#c1)-11), como lo hace también a los gentiles de Galacia, el misterio de la justificación mediante la fe que Jesucristo nos mereció gratuitamente, igualando en ella a judíos y gentiles. Y revela el misterio de la conversión final de Israel según los anuncios del Antiguo Testamento, confirmados por Jesús en el Evangelio. En la *segunda* parte trata otras cuestiones de vida espiritual, y añade, en la doxología final, una referencia al "misterio oculto desde tiempos eternos" que expondrá especialmente en las Cartas a los Efesios y a los Colosenses.
@@ -1536,5 +1534,3 @@ Vemos una elocuente confirmación de esta doctrina en Efesios [6, 5](efesios#c6-
 
 <!-- Total de notas: 163 -->
 <!-- Rango original: [11535] - [11697] -->
-
-

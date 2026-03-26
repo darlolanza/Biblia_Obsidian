@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Primera carta a Timoteo
-permalink: /1-timoteo
+aliases: [1 Timoteo]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -285,7 +284,6 @@ permalink: /1-timoteo
 [21] Por profesarla algunos se han extraviado de la fe. La gracia sea con vosotros.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) **Timoteo**, hijo de padre pagano y madre judía, era el discípulo más querido de Pablo, socio en su segundo viaje apostólico y compañero durante el primer cautiverio en Roma. Después de ser puesto en libertad, Pablo le llevó al Asia Menor, donde le confió la dirección de la Iglesia de Éfeso.
 

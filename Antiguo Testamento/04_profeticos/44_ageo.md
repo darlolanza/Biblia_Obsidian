@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Ageo
-permalink: /ageo
+aliases: [Ageo]
 ---
 
 ## Introducción

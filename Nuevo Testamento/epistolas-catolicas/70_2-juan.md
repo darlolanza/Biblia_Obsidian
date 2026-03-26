@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Segunda carta del apóstol san Juan
-permalink: /2-juan
+aliases: [2 Juan]
 ---
 
 ## Exhortación a perseverar en la fe y en la caridad
@@ -67,4 +66,3 @@ Como observan los comentadores, esta carta, no obstante tales precauciones que h
 
 <!-- Total de notas: 11 -->
 <!-- Rango original de notas: [12778] - [12788] -->
-

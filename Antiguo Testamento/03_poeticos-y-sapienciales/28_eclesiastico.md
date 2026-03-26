@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Eclesiástico o Ben Sirá
-permalink: /eclesiastico
+aliases: [Eclesiástico]
 ---
 
 ## Introducción
@@ -55,10 +54,6 @@ En vano David nos lo advertía hace tres mil años, hablando por su boca el mism
 Estas reflexiones pueden servirnos como claroscuro para apreciar mejor, frente a nuestra triste indigencia propia, el tesoro de verdad, de enseñanzas, de soluciones infalibles, que la bondad de Nuestro Padre Dios pone en nuestras manos con este Libro, tan poco leído y meditado en los tiempos modernos. Agreguemos que esta sabiduría práctica del Eclesiástico, no es como un tónico o néctar de excepción, reservado solo para los que aspiran a lo exquisito. Es un alimento cotidiano, al que hemos de recurrir sistemáticamente los que vivimos "en este siglo malo" (Gálatas [1, 4](galatas#c1-v4)), los que creemos que San Juan no miente al decir que "el mundo todo está poseído del maligno" (1 Juan [5, 19](1-juan#c5-v19)). Jesús confirma esto en forma tremendamente absoluta, diciendo que a ese Espíritu Santo, que "enseña toda verdad" (Juan [16, 13](juan#c16-v13)) porque es "el Espíritu de la Verdad" (ibíd. 14, 17), "el mundo no lo puede recibir porque no lo ve, ni lo conoce" (ibíd.).
 
 Siendo el Eclesiástico uno de los libros deuterocanónicos, nos hemos servido del texto (corregido) de nuestra edición de la Vulgata, añadiendo en las notas las variantes más importantes del griego y hebreo.
-
-
-
-
 
 ### Prólogo del traductor griego Muchas y grandes cosas se nos han enseñado en la Ley, y por medio de los Profetas, y de otros que vinieron después de ellos; de donde con razón merecen ser alabados los israelitas por su erudición y doctrina; puesto que no solamente los mismos que escribieron estos discursos hubieron de ser muy instruidos, sino que también los extranjeros pueden, asimismo, llegar a ser muy hábiles, tanto para hablar como para escribir. De aquí es que mi abuelo Jesús, después de haberse aplicado con el mayor empeño a la lectura de la Ley y de los Profetas, y de otros Libros que nos dejaron nuestros padres, quiso él también escribir algo de estas cosas tocantes a la doctrina y a la sabiduría, a fin de que los deseosos de aprender, bien instruidos en ellas, atiendan más y más a su deber, y se mantengan firmes en vivir conforme a la Ley.
 
@@ -3703,10 +3698,7 @@ Después que yo llegué a Egipto en el año treinta y ocho del reinado del rey P
 
 [38] Haced lo que debéis hacer antes que el tiempo pase; y Él os dará a su tiempo vuestra recompensa.
 
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 697-->
 <!--Rango original de referencias: 6556 - 7252-->
-

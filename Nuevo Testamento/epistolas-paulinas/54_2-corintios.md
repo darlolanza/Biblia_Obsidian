@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Segunda carta a los Corintios
-permalink: /2-corintios
+aliases: [2 Corintios]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -617,7 +616,6 @@ permalink: /2-corintios
 [13] La gracia del Señor Jesucristo y la caridad de Dios (Padre) y la comunicación del Espíritu Santo sea con todos vosotros.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) Esta segunda epístola fue escrita poco después de la primera, a fines del año 57, en Macedonia, durante el viaje del apóstol de Éfeso a Corinto. Tito, colaborador de S. Pablo, le trajo buenas noticias de Corinto, donde la primera carta había producido excelentes resultados. La mayoría acataba las amonestaciones de su padre espiritual. No obstante, existían todavía intrigas que procedían de judíos y judío-cristianos. Para deshacerlas les escribió el apóstol por segunda vez antes de llegarse personalmente a ellos.
 

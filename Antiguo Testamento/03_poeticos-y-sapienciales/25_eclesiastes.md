@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Eclesiastés o Cohélet
-permalink: /eclesiastes
+aliases: [Eclesiastés]
 ---
 
 INTRODUCCIÓN
@@ -13,8 +12,6 @@ El autor del libro habla, desde el título, como hijo de David, por lo cual las 
 El Eclesiastés no es sistemático. "No le atraen las síntesis, y parece desinteresarse de las conclusiones de sus asertos, aun cuando suenen a discordantes" (Manresa). San Pablo pudo gloriarse de predicar igualmente: "no con palabras persuasivas según la sabiduría humana, sino mostrando la verdad con el Espíritu Santo y la fuerza de Dios" (1 Corintios [2, 4](1-corintios#c2-v4)). De ahí que estas sentencias, tremendas para la suficiencia humana, hayan escandalizado hasta ser tildadas de epicúreas. En realidad, la irresistible elocuencia de este Libro revulsivo, con su apariencia de pesimismo implacable, es quizá lo más poderoso que existe para quitarnos la venda que oculta, a nuestra inteligencia oscurecida por el pecado congénito, los esplendores de la vida espiritual, y remover así ese gran obstáculo con que "el padre de la mentira" (Juan [8, 44](juan#c8-v44)) pretende escondernos las Bienaventuranzas, y que el Sabio llama "la fascinación de la bagatela" (Sabiduría [4, 12](sabiduria#c4-v12)).
 
 Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Nebiyim (Profetas) y los Ketubim (Hagiógrafos). A este tercer grupo pertenece el Eclesiastés, que era contado también entre los cinco Meghillot, o sea libros pequeños que se escribían en rollos aparte, para uso litúrgico.
-
-
 
 ## Eclesiastés [1](#c1) {#c1}
 
@@ -548,11 +545,7 @@ Los hebreos dividían los libros sagrados en tres grupos: La Torah (Ley); los Ne
 
 [14] Pues Dios traerá a juicio todo lo que se hace, aun las cosas ocultas, sean buenas o sean malas.
 
-
 <!--Total de referencias: 111-->
 <!--Rango original de referencias: 6110 - 6220-->
-
-
-
 
 ## Comentarios de Mons. Straubinger

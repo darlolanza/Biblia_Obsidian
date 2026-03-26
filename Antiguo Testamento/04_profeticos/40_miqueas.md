@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Miqueas
-permalink: /miqueas
+aliases: [Miqueas]
 ---
 
 ## Introducción
@@ -13,8 +12,6 @@ El marco histórico en que se encuadra la actividad de Miqueas es determinado po
 El libro se compone de tres discursos. El primero (caps. 1-2) se dirige contra los reinos de Israel y Judá, a los cuales predice la ruina, pero también el regreso del cautiverio y la erección del reino mesiánico. El segundo discurso (caps. 3-5) trae amenazas contra los príncipes y jueces, contra falsos profetas y malos sacerdotes, contra Sión y el Templo, el cual será destruido en castigo de las maldades, pero al mismo tiempo promete felicidad futura, gloria para Jerusalén como centro de todos los pueblos, la restauración del reino de David y la venida del Mesías que nacerá en Belén. El tercer discurso (caps. 6-7) contiene exhortaciones al arrepentimiento, anuncia el perdón y muestra el camino de la salvación. Concluye el Libro con un himno rebosante de promesas y de esperanzas.
 
 Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terrible, desnudo y audaz en las conminaciones ([3, 12](book#c3-v12)), elevado y grandioso en las promesas ([4, 1](book#c4-v1) ss.; [5, 1](book#c5-v1) ss.), tierno y patético en sus quejas y lamentos ([6, 1](book#c6-v1) ss.)". Tiene mucha semejanza con su contemporáneo Isaías, junto con el cual Miqueas inaugura el siglo de oro de la literatura hebrea.
-
-
 
 ## Miqueas [1](#c1) {#c1}
 
@@ -271,9 +268,6 @@ Miqueas se distingue por la belleza y sublimidad de su lenguaje, que es "terribl
 [19] Volverá a compadecerse de nosotros, aplastará nuestras iniquidades, y arrojará a lo más profundo del mar todos nuestros pecados.
 
 [20] Tú manifestarás tu fidelidad a Jacob, y a Abrahán la misericordia, que juraste a nuestros padres desde los días de la antigüedad.
-
-
-
 
 ## Comentarios de Mons. Straubinger
 

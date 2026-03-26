@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Abdías
-permalink: /abdias
+aliases: [Abdías]
 ---
 
 ## Introducción

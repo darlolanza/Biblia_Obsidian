@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Evangelio según san Mateo
-permalink: /mateo
+aliases: [Mateo]
 ---
 
 ## Introducción
@@ -13,7 +12,6 @@ Su vida apostólica se desarrolló primero en Palestina, al lado de los otros Ap
 San Mateo fue el primero en escribir la Buena Nueva en forma de libro, entre los años 40-50 de la era cristiana. Lo compuso en lengua aramea o siríaca, para los judíos de Palestina que usaban aquel idioma. Más tarde este Evangelio, cuyo texto arameo se ha perdido, fue traducido al griego.
 
 El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido, porque en Él se han cumplido los vaticinios de los Profetas. Para sus lectores inmediatos no había mejor prueba que esta, y también nosotros experimentamos, al leer su Evangelio, la fuerza avasalladora de esa comprobación.
-
 
 ## Infancia de jesucristo
 
@@ -196,7 +194,6 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 [10] Entonces Jesús le dijo: "Vete, Satanás, porque está escrito: "Adorarás al Señor tu Dios, y a Él solo servirás".
 
 [11] Le dejó entonces el diablo, y he aquí que ángeles se acercaron para servirle.
-
 ## Ministerio de jesús en galilea
 
 #### Comienzo de la vida pública
@@ -2473,10 +2470,7 @@ El fin que San Mateo se propuso fue demostrar que Jesús es el Mesías prometido
 
 [20] enseñándoles a conservar todo cuanto os he mandado. Y mirad que Yo con vosotros estoy todos los días, hasta la consumación del siglo".
 
-
 ## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 323-->
 <!--Rango original de referencias: 9901 - 10223-->
-
-

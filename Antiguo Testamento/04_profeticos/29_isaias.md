@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Isaías
-permalink: /isaias
+aliases: [Isaías]
 ---
 
 ## Introducción
@@ -23,8 +22,6 @@ Fuera de eso, su objeto principal es anunciar el misterio de la Redención y de 
 No es de extrañar que la crítica racionalista haya atacado la autenticidad de esta segunda parte, atribuyéndola a otro autor posterior al cautiverio babilónico. Contra tal teoría que se apoya casi exclusivamente en criterios internos y lingüísticos, se levanta no solo la tradición judía, cuyo primer testigo es Jesús, hijo de Sirac (Eclesiastés [48, 25](eclesiastes#c48-v25) ss.), sino también toda la tradición cristiana.
 
 Para la interpretación de Isaías hay que tener presente lo dicho en la Introducción general.
-
-
 
 #### PRÓLOGO
 
@@ -3061,14 +3058,7 @@ Mas yo dije: "¡Estoy perdido! ¡perdido estoy! ¡Ay de mí!" Los prevaricadores
 
 [24] Y saldrán, y verán los cadáveres de los hombres que se rebelaron contra Mí; cuyo gusano nunca morirá, y cuyo fuego nunca se apagará; y serán objeto de horror para todos los hombres.
 
-
 <!--Total de referencias: 648-->
 <!--Rango original de referencias: 7253 - 7900-->
 
-
-
-
-
-
 ## Comentarios de Mons. Straubinger
-

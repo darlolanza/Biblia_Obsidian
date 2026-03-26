@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción a los Libros Poéticos y Sapienciales
-permalink: /libros-poeticos-y-sapienciales
 ---
 
 <!-- ## Introducción -->

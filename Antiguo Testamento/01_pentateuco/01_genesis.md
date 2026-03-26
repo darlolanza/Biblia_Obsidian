@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Génesis
-permalink: /genesis
+aliases: [Génesis]
 ---
-# Génesis [1]
 
 ## Desde la creación del mundo hasta el diluvio
 

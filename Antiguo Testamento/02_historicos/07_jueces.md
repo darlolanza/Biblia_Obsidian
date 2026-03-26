@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Jueces
-permalink: /jueces
+aliases: [Jueces]
 ---
 
 ## Introducción
@@ -21,8 +20,6 @@ No es difícil establecer el tiempo de su composición. El autor da por supuesto
 La enseñanza especial que deducimos del libro de los Jueces es demostrar que Dios siempre castiga a su pueblo cuando este se aparta de su Ley, pero le suscita un libertador cada vez que se convierte o pide auxilio a su Dios.
 
 No se ha aclarado aún la cronología del libro. Si sumamos los años atribuidos a cada Juez, salen como resultado 410 años. Ahora bien, todos los acontecimientos transcurridos entre el Éxodo de Egipto y el comienzo de la edificación del Templo bajo Salomón abarcan 480 años. Si de esos 480 años se quitan los 410 de los Jueces, quedan para los demás acontecimientos solo 70 años, lo cual es imposible. La solución de esta dificultad consiste en admitir que algunos de los Jueces reinaron simultáneamente en diversas regiones del país.
-
-
 
 ## La situación político-religiosa después de la muerte de josué
 
@@ -1435,9 +1432,6 @@ No se ha aclarado aún la cronología del libro. Si sumamos los años atribuidos
 [24] Regresaron entonces de allí los hijos de Israel, cada uno a su tribu y a su familia. Volvieron de allí cada uno a su herencia.
 
 [25] En aquellos días no había rey en Israel; cada cual hacía lo que mejor le parecía.
-
-
-
 
 ## Comentarios de Mons. Straubinger
 

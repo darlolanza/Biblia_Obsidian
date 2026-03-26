@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Cantar de los Cantares
-permalink: /cantar-de-los-cantares
+aliases: [Cantar de los Cantares]
 ---
 
 INTRODUCCIÓN
@@ -51,8 +50,6 @@ ESCENA IV (5, 2-6, 3): a) Visita nocturna ([5, 2](book#c5-v2)-9): La Esposa no a
 ESCENA V, (6, 4-8, 4): a) Nuevas loas de la Esposa (6, 4-7, 1). b) Justa de requiebros, en que parecen rivalizar el rey y el pastor ([7, 2](book#c7-v2)-10). c) Fidelidad de la Esposa (7, 11-8, 4).
 
 ESCENA VI ([8, 5](book#c8-v5)-14): a) El triunfo del amor ([8, 5](book#c8-v5)-7): La Esposa descansa en el Amado. El fuego divino. Unión transformante. b) Parábolas de la hermanita y de la viña ([8, 8](book#c8-v8)-12). c) Idilio ([8, 13](book#c8-v13)) y llamado final ([8, 14](book#c8-v14)).
-
-
 
 ## Cantar de los Cantares [1](#c1) {#c1}
 
@@ -414,11 +411,7 @@ Yo te suscitaré debajo del manzano, allí donde murió tu madre, donde pereció
 
 [14] Corre, amado mío, y sé como la gacela y el cervatillo sobre los montes de los bálsamos.
 
-
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 88-->
 <!--Rango original de referencias: 6221 - 6308-->
-

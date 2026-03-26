@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Daniel
-permalink: /daniel
+aliases: [Daniel]
 ---
 
 ## Introducción
@@ -23,9 +22,6 @@ También contra la autenticidad del Libro de Daniel se han levantado voces que p
 No obstante los problemas históricos planteados en este libro divino, sus profecías fueron de amplia y profunda influencia, particularmente durante las persecuciones en el tiempo de los Macabeos. "En los relatos y en las revelaciones de Daniel, el pueblo de Yahvé poseía un documento auténtico que le prometía claramente la liberación final gracias al Mesías" (Fillion). En ellas encontraron los judíos perseguidos por el tirano Antíoco Epífanes el mejor consuelo y la seguridad de que, como dice el mismo Fillion, "los reinos paganos, por más poderosos que fuesen, no conseguirían destruirlo" y que, pasado el tiempo de los gentiles, vendrá el reino de Dios que el Profeta anuncia en términos tan magníficos (cf. [2, 44](#c2-v44); [7, 13](#c7-v13) ss.; 9, 24 ss.). Para nosotros, los cristianos, no es menor la importancia del Libro de Daniel, siendo, como es, un libro de consoladora esperanza y una llave de inapreciable valor para el Apocalipsis de San Juan. Un estudio detenido y reverente de las profecías de Daniel nos proporciona no solamente claros conceptos acerca de los acontecimientos del fin, sino también la fortaleza para mantenernos fieles hasta el día en que se cumpla nuestra "bienaventurada esperanza" (Tito [2, 13](tito#c2-v13)).
 
 En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata.
-
-
-
 
 ## Episodios de la vida de daniel
 
@@ -1046,7 +1042,6 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 [27] Mas después que los viejos hubieron hablado, quedaron los criados sumamente avergonzados; porque nunca tal cosa se había dicho de Susana.
 #### Susana es condenada a muerte
 
-
 [28] Al día siguiente concurrió el pueblo a la casa de Joaquín, su marido, y vinieron también los dos viejos, llenos de perversos pensamientos contra Susana, para condenarla a muerte.
 
 [29] Dijeron en presencia del pueblo: "Envíese a llamar a Susana, hija de Helcías, mujer de Joaquín." Y enviaron por ella.
@@ -1079,7 +1074,6 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 
 [43] Tú sabes que estos han levantado contra mí testimonio falso; y he aquí que yo muero sin haber hecho nada de lo que estos han inventado maliciosamente contra mí."
 #### Daniel comprueba la inocencia de Susana
-
 
 [44] Y oyó el Señor su oración.
 
@@ -1218,7 +1212,6 @@ En esta versión los fragmentos deuterocanónicos han sido tomados de la Vulgata
 [41] Y le hizo sacar del foso de los leones. Pero a aquellos que habían maquinado su ruina, los hizo echar en el foso y fueron al punto devorados en su presencia.
 
 [42] Entonces dijo el rey: "Teman al Dios de Daniel todos los moradores del orbe; porque Él es el Salvador, el que obra prodigios y maravillas sobre la tierra y libró a Daniel del foso de los leones."
-
 
 ## Comentarios de Mons. Straubinger
 

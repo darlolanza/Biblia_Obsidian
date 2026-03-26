@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Segunda carta a Timoteo
-permalink: /2-timoteo
+aliases: [2 Timoteo]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

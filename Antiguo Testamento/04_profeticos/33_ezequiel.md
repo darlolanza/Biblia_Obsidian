@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Ezequiel
-permalink: /ezequiel
+aliases: [Ezequiel]
 ---
 
 ## Introducción
@@ -19,9 +18,6 @@ El libro se divide en un Prólogo, que relata el llamamiento del profeta (caps. 
 Las profecías de Ezequiel descuellan por la riqueza de alegorías, imágenes y acciones simbólicas de tal manera, que San Jerónimo las llama "mar de la palabra divina" y "laberinto de los secretos de Dios".
 
 Ezequiel, según tradición judía, murió mártir. La Iglesia conmemora su festividad el 10 de abril.
-
-
-
 
 ### Ezequiel [1]
 
@@ -2932,9 +2928,6 @@ Ezequiel, según tradición judía, murió mártir. La Iglesia conmemora su fest
 [34] Por el lado occidental: cuatro mil quinientas (medidas) y tres puertas: la puerta de Gad, una; la puerta de Aser, una; la puerta de Neftalí, una.
 
 [35] Su perímetro será de diez y ocho mil (medidas); y la ciudad se llamará desde aquel día: "Yahvé (está) allí."
-
-
-
 
 ## Comentarios de Mons. Straubinger
 

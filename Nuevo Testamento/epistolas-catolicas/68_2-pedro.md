@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Segunda carta del apóstol san Pedro
-permalink: /2-pedro
+aliases: [2 Pedro]
 ---
 
 ## [Introducción a las cartas de san Pedro](cartas-de-san-pedro)
@@ -155,7 +154,6 @@ permalink: /2-pedro
 [18] Antes bien, creced en la gracia y en el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y para el día de la eternidad. Amén.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) Esta *segunda carta* de S. Pedro es (como lo fue la segunda de Pablo a Timoteo) el testamento del Príncipe de los Apóstoles, pues fue escrita poco antes de su martirio (v. [14](#c1-v14)) Probablemente desde la cárcel de Roma entre los años 64 y 67. Los destinatarios son todas las comunidades cristianas del Asia Menor o sea que su auditorio no es tan limitado a los judío-cristianos como el de Santiago (cf. Santiago [1, 1](santiago#c1-v1)). Sobre el fin de la Carta véase la nota introductoria a las Epístolas de S. Pedro.
 

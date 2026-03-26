@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Colosenses
-permalink: /colosenses
+aliases: [Colosenses]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

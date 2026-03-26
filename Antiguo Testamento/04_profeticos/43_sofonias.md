@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Sofonías
-permalink: /sofonias
+aliases: [Sofonías]
 ---
 
 ## Introducción

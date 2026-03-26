@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Sabiduría
-permalink: /sabiduria
+aliases: [Sabiduría]
 ---
 
 ## Introducción
@@ -33,9 +32,6 @@ El verdadero autor, desconocido, debió de ser un varón piadoso que buscaba con
 El tiempo de la composición no ha de fijarse antes del año 300 a. C. Lo más probable es que se escribiera hacia el año 200 a. C. A esta conclusión llegan los exégetas en atención a que el libro fue compuesto en griego y que el autor conoce ideas cuyos orígenes han de buscarse en la escuela filosófica de Alejandría; lo cual no significa en manera alguna que el autor sagrado pague tributo a ellas. Antes por el contrario es este, por su asunto, uno de los libros más esencialmente sobrenaturales de la Escritura, como vemos por su altísima teología que parece un anticipo del Nuevo Testamento.
 
 Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, presentamos el texto (corregido) de nuestra edición de la Vulgata (Edit. Guadalupe).
-
-
-
 
 ## La sabiduría: su naturaleza y sus frutos  
 
@@ -1083,12 +1079,7 @@ Tratándose de un libro deuterocanónico, que no está en la Biblia hebrea, pres
 
 [20] Al contrario, las llamas no dañaban a los cuerpos de los animales corruptibles, de suyo combustibles, que andaban dentro de ellas, ni derretían aquel delicioso manjar, que se deshacía tan fácilmente como la escarcha. Así que, oh Señor, en todo y por todo engrandeciste a tu pueblo, y le honraste ni te desdeñaste de asistirle en todo tiempo y en todo lugar.
 
-
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 247-->
 <!--Rango original de referencias: 6309 - 6555-->
-
-

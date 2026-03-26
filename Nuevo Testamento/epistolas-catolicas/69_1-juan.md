@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Primera carta del apóstol san Juan
-permalink: /1-juan
+aliases: [1 Juan]
 ---
 
 ## 1 Juan [1](#c1) {#c1}

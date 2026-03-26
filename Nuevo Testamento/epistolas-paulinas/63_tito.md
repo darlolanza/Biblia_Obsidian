@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a Tito
-permalink: /tito
+aliases: [Tito]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -195,4 +194,3 @@ S. Jerónimo aprovecha la crítica de estas vanidades para insistir sobre el val
 
 <!-- Total de notas: 24 -->
 <!-- Rango original: [12370] - [12393] -->
-

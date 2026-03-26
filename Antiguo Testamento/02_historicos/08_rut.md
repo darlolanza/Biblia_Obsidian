@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Rut
-permalink: /rut
+aliases: [Rut]
 ---
 
 ## Introducción

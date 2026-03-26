@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Jeremías
-permalink: /jeremias
+aliases: [Jeremías]
 ---
 
 ## Introducción
@@ -15,7 +14,6 @@ Jeremías es un ejemplo de vida religiosa, creyéndose que se conservó virgen (
 Su libro se divide en dos partes, la primera de las cuales contiene las profecías que versan sobre Judá y Jerusalén (caps. 2-45), y la segunda reúne los vaticinios contra otros pueblos (caps. 46-51). El primer capítulo narra la vocación del Profeta, y el último (cap. 52) es un apéndice histórico.
 
 Cuanto menos comprendido fue Jeremías por sus contemporáneos, tanto más lo fue por las generaciones que le siguieron. Sus vaticinios alentaban a los cautivos de Babilonia, y a él se dirigían las miradas de los israelitas que esperaban la salud mesiánica. Tan grande era su autoridad que muchos creían que volvería de nuevo, como se ve en él episodio de Mateo [16, 14](mateo#c16-v14). Los santos Padres lo consideran como figura de Cristo, a quien representa por lo extraordinario de su elección, por la pureza virginal, por el amor inextinguible a su pueblo y por la paciencia invencible frente a las persecuciones de aquellos a los cuales amaba.
-
 
 #### PRÓLOGO
 
@@ -3157,11 +3155,7 @@ Cuanto menos comprendido fue Jeremías por sus contemporáneos, tanto más lo fu
 
 [34] Para su sustento, el rey de Babilonia le asignó una manutención perpetua, cada día una ración fija, hasta el día de su muerte, todos los días de su vida.
 
-
 ## Comentarios de Mons. Straubinger
-
-
-
 
 <!--Total de referencias: 531-->
 <!--Rango original de referencias: 7901 - 8431-->

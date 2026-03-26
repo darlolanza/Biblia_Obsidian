@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Amós
-permalink: /amos
+aliases: [Amós]
 ---
 
 ## Introducción
@@ -11,7 +10,6 @@ Antes de su vocación, Amós fue pastor y labrador que apacentaba sus ovejas y c
 Desde un principio, el profeta se mostró intrépido defensor de la Ley de Dios, especialmente en su encarnizada lucha contra el culto del becerro adorado en Betel. Perseguido por Amasías, sacerdote de aquel becerro ([7, 10](book#c7-v10)), el profeta murió mártir, según una tradición judía. La Iglesia le conmemora en el calendario de los santos el 30 de marzo.
 
 Los primeros dos capítulos contienen amenazas contra los pueblos vecinos, mientras los caps. 3-6 comprenden profecías contra el reino de Israel. Los caps. 7-9 presentan cinco visiones proféticas acerca del juicio de Dios sobre su pueblo y el reino mesiánico, a cuyas maravillas dedica los últimos versículos, como lo hacen también Oseas, Joel, Abdías y casi todos los profetas Mayores y Menores.
-
 
 ## Amós [1](#c1) {#c1}
 
@@ -128,7 +126,6 @@ Los primeros dos capítulos contienen amenazas contra los pueblos vecinos, mient
 [14] Porque el día que Yo castigare las prevaricaciones de Israel, (lo) castigaré también por los altares de Betel, y serán rotos los cuernos del altar y caerán a tierra.
 
 [15] Destruiré las casas de invierno juntamente con las casas de verano; quedarán arrasados los palacios de marfil, y desaparecerán muchas casas", dice Yahvé. 
-
 
 ## Amós [4](#c4) {#c4}
 
@@ -371,7 +368,6 @@ Los primeros dos capítulos contienen amenazas contra los pueblos vecinos, mient
 [14] Y haré que regresen los cautivos de Israel, mi pueblo; edificarán las ciudades devastadas, y las habitarán, plantarán viñas y beberán su vino; harán huertos y comerán su fruto.
 
 [15] Yo los plantaré en su propio suelo; y no volverán a ser arrancados de su tierra, que Yo les he dado, dice Yahvé, tu Dios.
-
 
 ## Comentarios de Mons. Straubinger
 

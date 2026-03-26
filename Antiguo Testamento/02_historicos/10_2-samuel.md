@@ -1,7 +1,6 @@
 ---
-layout: page
 title: II REYES (2 SAMUEL)
-permalink: /2-samuel
+aliases: [2 Samuel]
 ---
 
 ## David reina sobre judá
@@ -89,7 +88,6 @@ Fue dicho a David: "Los hombres de Jabés-Galaad han dado sepultura a Saúl."
 [6] ¡Ahora pues, que use Yahvé con vosotros de misericordia y de fidelidad! y yo también os recompensaré esta buena acción que habéis hecho.
 
 [7] Y ahora cobren fuerza vuestras manos, y sed valientes; pues muerto ya Saúl, vuestro señor, la casa de Judá me ha ungido a mí por rey suyo."
-
 
 #### Oposición de la casa de Saúl
 
@@ -556,7 +554,6 @@ Fue dicho a David: "Los hombres de Jabés-Galaad han dado sepultura a Saúl."
 [14] Y al ver los hijos de Ammón que huían los sirios huyeron ellos también delante de Abisai, retirándose a la ciudad. Entonces Joab volvió de la guerra contra los hijos de Ammón y vino a Jerusalén.
 #### Nuevo triunfo sobre los ammonitas
 
-
 [15] Viendo los sirios que habían sido vencidos por los hijos de Israel, concentraron todas sus fuerzas,
 
 [16] y Hadadéser hizo venir a los sirios que habitaban al otro lado del río, los cuales vinieron a Helam, capitaneados por Sobac, general de las tropas de Hadadéser.
@@ -568,7 +565,6 @@ Fue dicho a David: "Los hombres de Jabés-Galaad han dado sepultura a Saúl."
 [19] Y todos los reyes vasallos de Hadadéser, viéndose vencidos por Israel, hicieron paces con Israel y se sometieron; y los sirios no se atrevieron más a ayudar a los hijos de Ammón.
 
 ## David, el rey penitente
-
 
 ### 2 Samuel [11]
 
@@ -1611,7 +1607,6 @@ Fue dicho a David: "Los hombres de Jabés-Galaad han dado sepultura a Saúl."
 [25] David erigió allí un altar a Yahvé y ofreció holocaustos y sacrificios pacíficos; y Yahvé fue propicio al país, y se retiró la plaga de Israel.
 
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 184-->
 <!--Rango original de referencias: 2017 - 2200-->

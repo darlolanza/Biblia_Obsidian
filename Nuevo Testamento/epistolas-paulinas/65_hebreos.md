@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Hebreos
-permalink: /hebreos
+aliases: [Hebreos]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

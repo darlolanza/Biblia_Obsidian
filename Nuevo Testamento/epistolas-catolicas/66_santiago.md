@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta del apóstol Santiago
-permalink: /santiago
+aliases: [Santiago]
 ---
 
 ## Introducción

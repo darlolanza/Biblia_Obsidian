@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Malaquías
-permalink: /malaquias
+aliases: [Malaquías]
 ---
 
 ## Introducción
@@ -15,9 +14,6 @@ Después de recordar, como una sentencia que agrava la culpa de Israel, cuánto 
 Empieza tratando de los sacerdotes y del culto, por lo cual reprende a los ministros del Señor que se han olvidado del carácter sagrado de su cargo (1, 6-2, 9). Predica luego contra la corrupción de las costumbres en el pueblo (2, 10-3, 18), los matrimonios mixtos y los frecuentes divorcios, y exhorta a pagar escrupulosamente los diezmos.
 
 Al final anuncia el profeta la segunda venida de Elías como precursor del gran día del Señor, juntamente con predicciones mesiánicas muy importantes. Cf. [3, 1](#c3-v1); [4, 5](#c4-v5)-6.
-
-
-
 
 ## Malaquías [1](#c1) {#c1}
 
@@ -159,11 +155,7 @@ Al final anuncia el profeta la segunda venida de Elías como precursor del gran 
 
 [6] El convertirá el corazón de los padres a los hijos, y el corazón de los hijos a los padres; no sea que Yo viniendo hiera la tierra con el anatema.
 
-
-
 ## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 34-->
 <!--Rango original de referencias: 9867 - 9900-->
-
-

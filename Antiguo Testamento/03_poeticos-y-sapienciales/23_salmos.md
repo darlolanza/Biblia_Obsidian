@@ -1,11 +1,9 @@
 ---
-layout: page
 title: Salmos
-permalink: /salmos
+aliases: [Salmo]
 ---
 
 ### PRIMER LIBRO DE LOS SALMOS
-
 
 ### Salmo [1]
 
@@ -861,7 +859,6 @@ permalink: /salmos
 
 [14] ¡Aguarda a Yahvé y ten ánimo; aliéntese tu corazón y aguarde a Yahvé! 
 
-
 ### Salmo [27 (28)](#c27) {#c27}
 
 ### Oración escuchada
@@ -883,7 +880,6 @@ permalink: /salmos
 [8] Yahvé es la fuerza de su pueblo, y el alcázar de salvación para su ungido.
 
 [9] Salva a tu pueblo y bendice a tu heredad; apaciéntalos y condúcelos para siempre. 
-
 
 ### Salmo [28 (29)](#c28) {#c28}
 
@@ -4275,7 +4271,6 @@ permalink: /salmos
 
 [31] porque Él se mantuvo a la derecha de este pobre para salvarlo de sus jueces. 
 
-
 ### Salmo [109 (110)](#c109) {#c109}
 
 ### Triunfo de Cristo rey y Sacerdote 
@@ -4445,7 +4440,6 @@ permalink: /salmos
 [8] Puesto que Él ha arrancado mi vida de la muerte, mis ojos del llanto, mis pies de la caída,
 
 [9] caminaré delante de Yahvé en la tierra de los vivientes. 
-
 
 ### Salmo [115 (116, 10-19)](#c115) {#c115}
 
@@ -5681,10 +5675,7 @@ permalink: /salmos
 
 [6] ¡Todo lo que respira alabe al Señor! ¡Hallelú Yah!
 
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 1473-->
 <!--Rango original de referencias: 4212 - 5684-->
-

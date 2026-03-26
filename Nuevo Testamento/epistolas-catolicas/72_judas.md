@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta del apóstol san Judas
-permalink: /judas
+aliases: [Judas]
 ---
 
 ## Saludo y advertencia contra los falsos doctores

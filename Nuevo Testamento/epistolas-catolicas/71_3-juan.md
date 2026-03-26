@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Tercera carta del apóstol san Juan
-permalink: /3-juan
+aliases: [3 Juan]
 ---
 <!--* En Strauginger y Nacar-Colunga, el v. 14 es el último, pero en Bover-Cantera y todas las demás Biblias, está dividido en 2, terminando el libro en el v. 15 -->
+
 ## El apóstol alaba la caridad de Gayo
 
 [1] El Presbítero al amado Gayo, a quien amo yo en verdad.

@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Oseas
-permalink: /oseas
+aliases: [Oseas]
 ---
 
 ## Introducción
@@ -13,8 +12,6 @@ Oseas u Osee, profeta de las diez tribus del norte, como su contemporáneo Amós
 La primera parte (capítulos 1-3) comprende dos acciones simbólicas que se refieren a la infidelidad del reino de Israel como esposa de Yahvé. La segunda (capítulos 4-14) es una colección de cinco vaticinios (capítulos 4, 5, 6, 7-12; 12-14) en que se anuncian los castigos contra el mismo reino y luego la purificación de la esposa adúltera, en la cual se despierta la esperanza en el Mesías y su glorioso reinado.
 
 El Martirologio Romano conmemora al santo Profeta el día 4 de julio. Su sepulcro se muestra en el monte Nebí Oscha, no lejos de es-Salt (Transjordania). El Eclesiástico hace de Oseas y de los otros Profetas Menores este significativo elogio: “Reverdezcan también en el lugar donde reposan, los huesos de los doce Profetas; porque ellos consolaron a Jacob, y lo confortaron con una esperanza cierta” (Eclesiástico 49, 12).
-
-
 
 ## Oseas [1](#c1) {#c1}
 
@@ -258,7 +255,6 @@ El Martirologio Romano conmemora al santo Profeta el día 4 de julio. Su sepulcr
 
 ### Infidelidad de Israel
 
-
 [1] ¡A tu boca la trompeta! Cual águila (viene el enemigo) sobre la casa de Yahvé; por cuanto han violado mi alianza y pecado contra mi Ley.
 
 [2] Claman a Mí: *¡Dios mío; nosotros, los de Israel, te hemos reconocido!*
@@ -485,9 +481,7 @@ El Martirologio Romano conmemora al santo Profeta el día 4 de julio. Su sepulcr
 
 [10] ¿Quién es el sabio que esto comprenda, el hombre inteligente que lo conozca? Porque rectos son los caminos de Yahvé, y los justos andan por ellos; mas los prevaricadores hallan en ellos su ruina. 
 
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 131-->
 <!--Rango original de referencias: 9269 - 9399-->

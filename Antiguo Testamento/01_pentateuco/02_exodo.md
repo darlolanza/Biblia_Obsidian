@@ -1,10 +1,7 @@
 ---
-layout: page
 title: Éxodo
-permalink: /exodo
+aliases: [Éxodo]
 ---
-
-# Éxodo [1]
 
 ## Hasta la salida de egipto
 
@@ -940,7 +937,6 @@ permalink: /exodo
 
 [27] Después llegaron a Elim, donde había doce fuentes de agua y setenta palmeras, y acamparon allí junto a las aguas.
 
-
 ### Éxodo [16]
 
 #### Las codornices y el maná
@@ -960,7 +956,6 @@ permalink: /exodo
 [7] y a la mañana veréis la gloria de Yahvé, ya que ha oído vuestras murmuraciones que se dirigen contra El; porque nosotros ¿qué somos para que murmuréis contra nosotros?"
 
 [8] Y añadió Moisés: "Esto será al daros Yahvé esta tarde carne para comer, y a la mañana pan en abundancia; pues Yahvé ha oído vuestras murmuraciones con que murmuráis contra El; pues ¿qué somos nosotros? No van contra nosotros vuestras murmuraciones, sino contra Yahvé." 
-
 
 [9] Dijo entonces Moisés a Aarón: "Di a todo el pueblo de los hijos de Israel: Acercaos a Yahvé, porque El ha oído vuestras murmuraciones."
 
@@ -2754,4 +2749,3 @@ permalink: /exodo
 
 <!--Total de referencias: 285-->
 <!--Rango original de referencias: 438 - 722-->
-

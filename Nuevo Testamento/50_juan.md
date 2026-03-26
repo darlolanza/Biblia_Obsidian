@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Evangelio según san Juan
-permalink: /juan
+aliases: [Juan]
 ---
 
 ## Introducción
@@ -15,7 +14,6 @@ Después de la Resurrección se quedó Juan en Jerusalén como una de las "colum
 Además del Apocalipsis y tres Epístolas, compuso a fines del primer siglo, es decir, unos 30 años después de los Sinópticos y de la caída del Templo, este Evangelio, que tiene por objeto robustecer la fe en la mesianidad y divinidad de Jesucristo, a la par que sirve para completar los Evangelios anteriores, principalmente desde el punto de vista espiritual, pues ha sido llamado el Evangelista del amor.
 
 Su lenguaje es de lo más alto que nos ha legado la Escritura Sagrada, como ya lo muestra el prólogo, que, por la sublimidad sobrenatural de su asunto, no tiene semejante en la literatura de la Humanidad.
-
 
 #### PRÓLOGO
 
@@ -1982,9 +1980,7 @@ Su lenguaje es de lo más alto que nos ha legado la Escritura Sagrada, como ya l
 
 [25] Jesús hizo también muchas otras cosas: si se quisiera ponerlas por escrito, una por una creo que el mundo no bastaría para contener los libros que se podrían escribir.
 
-
 ## Comentarios de Mons. Straubinger
-
 
 <!--Total de referencias: 354-->
 <!--Rango original de referencias: 10743 - 11096-->

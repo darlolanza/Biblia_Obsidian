@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Habacuc
-permalink: /habacuc
+aliases: [Habacuc]
 ---
 
 ## Introducción

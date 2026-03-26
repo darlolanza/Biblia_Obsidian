@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción al Nuevo Testamento
-permalink: /nuevo-testamento
 ---
 
 ## Advertencias

@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Segunda carta a los Tesalonicenses
-permalink: /2-tesalonicenses
+aliases: [2 Tesalonicenses]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

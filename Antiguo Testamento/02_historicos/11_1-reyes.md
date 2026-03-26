@@ -1,7 +1,6 @@
 ---
-layout: page
 title: III REYES (1 REYES)
-permalink: /1-reyes
+aliases: [1 Reyes]
 ---
 
 ## Introducción
@@ -23,8 +22,6 @@ El tiempo de la composición de los dos libros ha de fijarse entre el año 562 y
 El autor ha tenido a su disposición fuentes escritas, los anales de los reyes de Judá, citados por él 15 veces, y los anales de los reyes de Israel citados 11 veces. De estas fuentes ha entresacado lo que creía conveniente para su objeto.
 
 Un problema para los exégetas es la cronología de los dos libros. Consiste ella en indicar la edad del rey que sube al trono y la duración de su reinado, y, además, su sincronización con el reinado del rey contemporáneo de Israel o de Judá, respectivamente. Pero si se suman los años de los reyes de Judá con los del reino de Israel desde el cisma hasta el cautiverio de Israel, resulta una diferencia de 19 años. Para solucionar esta dificultad se han propuesto varios sistemas.
-
-
 
 ## Salomón
 
@@ -952,7 +949,6 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 
 [8] Lo mismo hizo para todas sus mujeres de tierra extraña, que quemaban incienso y ofrecían sacrificios a sus dioses.
 #### El Señor anuncia el castigo
-
 
 [9] Entonces se irritó Yahvé contra Salomón, puesto que había apartado su corazón de Yahvé, el Dios de Israel, que se le había aparecido dos veces,
 
@@ -1899,7 +1895,6 @@ Un problema para los exégetas es la cronología de los dos libros. Consiste ell
 [53] e hizo lo que era malo a los ojos de Yahvé, siguiendo el camino de su padre y de su madre, y el camino de Jeroboam, hijo de Nabat, que hizo pecar a Israel.
 
 [54] Pues sirvió a Baal y se prosternó delante de él. Así provocó a Yahvé, el Dios de Israel, haciendo todo lo que había hecho su padre.
-
 
 ## Comentarios de Mons. Straubinger
 

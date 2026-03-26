@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Primera carta a los Corintios
-permalink: /1-corintios
+aliases: [1 Corintios]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -1021,7 +1020,6 @@ permalink: /1-corintios
 [24] Mi amor está con todos vosotros, en Cristo Jesús.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) s. El apóstol escribió esta epístola durante su tercer viaje apostólico, en Éfeso, a principios del año 57. Entre los cristianos de Corinto se habían producido disensiones y partidos que se combatían mutuamente: uno de Apolo, otros de Pedro y de Pablo, y hasta uno que se proclamaba partido de Cristo. Además, cundían entre ellos grandes abusos y escándalos, procesos y pleitos, desórdenes en los ágapes, ciertas libertades de las mujeres en la iglesia, y otras cuestiones que llamaban la atención de San Pablo. Ningún otro documento apostólico pinta tan clásicamente las dificultades de la Iglesia en medio de un mundo pagano. Sóstenes parece ser la misma persona de que se habla en Hechos [18, 17](hechos#c18-v17).
 

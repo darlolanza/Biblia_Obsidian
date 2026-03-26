@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Evangelio según san Marcos
-permalink: /marcos
+aliases: [Marcos]
 ---
 
 ## Introducción

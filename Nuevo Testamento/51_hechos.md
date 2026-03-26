@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Hechos de los Apostoles
-permalink: /hechos
+aliases: [Hechos de los Apóstoles]
 ---
 
 ## Introducción

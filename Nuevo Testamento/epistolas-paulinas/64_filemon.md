@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a Filemón
-permalink: /filemon
+aliases: [Filemón]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)

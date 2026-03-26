@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Jonás
-permalink: /jonas
+aliases: [Jonás]
 ---
 
 ## Introducción
@@ -15,8 +14,6 @@ La nota característica de esta emocionante historia consiste en la concepción 
 En cuanto a la personalidad de Jonás, para formarse de ella un concepto exacto ha de tenerse presente que Dios no se propone aquí ofrecernos un ejemplo de vida santa, ni de celo en la predicación, ni de sabiduría, como en Jeremías, Ezequiel o Daniel, sino, a la inversa, mostrarnos la lección de sus yerros. La labor profética de Jonás en este Libro, se limita a un versículo ([3, 4](book#c3-v4)), donde anuncia y repite escuetamente que Nínive será destruida, sin exponer doctrina, ni formular siquiera un llamado a la conversión. Y en cuanto a la actuación y conducta personal del profeta, vemos que empieza con una desobediencia ([1, 3](book#c1-v3)) y que no obstante la gran prueba que sufre y de la cual Dios lo salva (cap. 2), termina con dos distintos accesos de ira ([4, 4](book#c4-v4) y [8](book#c4-v8)), uno por falta de misericordia hacia los pecadores (cf. [2, 9](#c2-v9) y nota) y el otro por falta de resignación. Lejos de proponérnoslo Dios como tipo de imitación, la enseñanza del Libro consiste, al contrario, en descubrirnos al desnudo las debilidades del profeta; lo cual es ciertamente un espejo precioso para que aprendamos a reconocer que las miserias nuestras no son menores que las de Jonás, y lo imitemos, eso sí, en la rectitud con que se declara culpable ([1, 12](book#c1-v12)) y en la confianza que manifiesta su hermosa plegaria del cap. 2.
 
 La Iglesia conmemora a Jonás el día 21 de setiembre. Su imagen se usaba ya en las catacumbas como figura de Cristo, que fue "muerto y sepultado y al tercer día resucitó de entre los muertos", y cuya resurrección es prenda de la nuestra. Jonás es también tipo de nuestro Salvador en cuanto Enviado que desde Israel trajo la salvación a los gentiles (Lucas [2, 32](lucas#c2-v32)) y representa de este modo la vocación apostólica del pueblo de Dios. Véase Salmo [95, 3](salmos#c95-v3) y nota.
-
-
 
 ## Jonás [1](#c1) {#c1}
 
@@ -135,7 +132,6 @@ La Iglesia conmemora a Jonás el día 21 de setiembre. Su imagen se usaba ya en 
 [10] Y dijo Yahvé: "Tú tienes lástima del ricino, que ningún trabajo te ha costado, ni tú lo hiciste crecer; creció en una noche, y en una noche pereció.
 
 [11] ¿Y Yo no he de tener lástima de Nínive, la ciudad tan grande, en la cual hay más de ciento veinte mil almas que no saben discernir su mano derecha de la izquierda, y numerosísimos animales?"
-
 
 ## Comentarios de Mons. Straubinger
 <!--Total de referencias: 24-->

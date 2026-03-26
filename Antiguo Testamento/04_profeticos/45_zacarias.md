@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Zacarías
-permalink: /zacarias
+aliases: [Zacarías]
 ---
 
 ## Introducción
@@ -13,8 +12,6 @@ Zacarías, hijo de Baraquías, y nieto de Iddó (Esdras [5, 1](esdras#c5-v1) y [
 Mientras Ageo exhorta al pueblo principalmente a la restauración del Templo, Zacarías, con su autoridad de profeta y de sacerdote de la tribu de Leví (Nehemías [12, 16](nehemias#c12-v16)), y con un celo que se alaba en Esdras [6, 14](esdras#c6-v14), "tomando como punto de partida el estado de aflicción en que se hallaba entonces Jerusalén... anima, consuela, exhorta, mostrando el porvenir brillante reservado a Israel y las bendiciones abundantes que se unirán a la restauración del Santuario de Yahvé" (Fillion), para lo cual expone ante todo ocho visiones (caps. 1-6). Los caps. 7-8 que forman la respuesta a una consulta, contienen enseñanzas espirituales y son, como Isaías 37-39, un nexo entre la primera y la última parte de la profecía. En los restantes capítulos (9-14), cuya magnificencia es parecida a la de Isaías, el profeta vaticina el reino mesiánico, que es el fin y objeto principal de sus profecías, y muestra a Cristo en sus dos venidas: rechazado y doliente en la primera, triunfante y glorioso en la segunda. Véase y compárese Zacarías [9, 9](zacarias#c9-v9) (el Mesías montado en un asnillo: cf. Mateo [21, 5](mateo#c21-v5)); 11, 12 s. (traicionado y vendido: cf. Mateo [21, 9](mateo#c21-v9)); 12, 10 ss. (traspasado por la lanza: cf. Juan [19, 37](juan#c19-v37)); 13, 7 (abandonado por los suyos: cf. Mateo [26, 31](mateo#c26-v31)).
 
 La crítica racionalista niega la unidad de este Libro, atribuyendo la última parte (9-14) a otro escritor anterior al cautiverio de Babilonia. A esto se opone la tradición constante de la Sinagoga y de la Iglesia, demostrando principalmente, no solo que no existe prueba alguna de ello, sino también que la vuelta de la cautividad es presentada en ambas partes de Zacarías como imagen de la felicidad futura prometida a Israel, y descrita de la misma manera. Véase en Vigouroux, Cornely, Knabenbauer, etc., los paralelismos importantes entre textos de Zacarías y los profetas Jeremías, Ezequiel, Sofonías, etc., que muestran que aquel se sirvió de ellos y no pudo por tanto ser anterior a la toma de Jerusalén por Nabucodonosor. Esos textos que fueron admitidos como argumento decisivo por un crítico racionalista como de Wette, haciéndole cambiar de opinión sobre la autenticidad del final de Zacarías, son los siguientes: 9, 2 y Ezequiel [28, 4](ezequiel#c28-v4); [9, 3](ezequiel#c9-v3) y 1 Reyes [10, 27](1-reyes#c10-v27); [9, 5](1-reyes#c9-v5) y Sofonías [2, 3](sofonias#c2-v3); [10, 3](sofonias#c10-v3) y Ezequiel [34, 17](ezequiel#c34-v17); [11, 4](ezequiel#c11-v4) y Ezequiel [34, 4](ezequiel#c34-v4); [11, 3](ezequiel#c11-v3) y Jeremías [12, 5](jeremias#c12-v5); [13, 8](jeremias#c13-v8) s. y Ezequiel [5, 12](ezequiel#c5-v12); [14, 8](ezequiel#c14-v8) y Ezequiel [47, 1](ezequiel#c47-v1)-12; [14, 10](ezequiel#c14-v10) s. y Jeremías [31, 38](jeremias#c31-v38)-40; [14, 20](jeremias#c14-v20) s. y Ezequiel [43, 12](ezequiel#c43-v12) y [44, 9](ezequiel#c44-v9).
-
-
 
 ## Zacarías [1](#c1) {#c1}
 
@@ -464,7 +461,6 @@ La crítica racionalista niega la unidad de este Libro, atribuyendo la última p
 
 ### Purificación de Jerusalén
 
-
 [1] En aquel día se abrirá una fuente para la casa de David y para los habitantes de Jerusalén, a fin de (lavar) el pecado y la inmundicia.
 
 [2] En aquel día, dice Yahvé de los ejércitos, exterminaré de la tierra los nombres de los ídolos, y no quedará más memoria de ellos; y extirparé de la tierra también a los profetas y al espíritu inmundo.
@@ -536,9 +532,6 @@ La crítica racionalista niega la unidad de este Libro, atribuyendo la última p
 [20] En aquel día, aun sobre las campanillas de los caballos (se escribirá): "Consagrado a Yahvé", y las ollas en la Casa de Yahvé serán como los vasos de libación delante del altar.
 
 [21] Toda olla en Jerusalén y en Judá será consagrada a Yahvé de los ejércitos; y todos los que ofrecieren sacrificios vendrán, y las tomaran para cocer en ellas; y no habrá ya cananeos en la Casa de Yahvé de los ejércitos, en aquel día. 
-
-
-
 
 ## Comentarios de Mons. Straubinger
 

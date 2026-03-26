@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción a los Libros Proféticos
-permalink: /libros-profeticos
 ---
 
 <!-- ## Introducción -->

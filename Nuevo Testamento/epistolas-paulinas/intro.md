@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Introducción a las Epístolas Paulinas
-permalink: /epistolas-paulinas
 ---
 
 <!-- ## Introducción -->

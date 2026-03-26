@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Proverbios
-permalink: /proverbios
+aliases: [Proverbios]
 ---
 
 INTRODUCCIÓN
@@ -17,8 +16,6 @@ En el título se expresa el objeto del Libro (ver 1, 1-6). Los primeros nueve ca
 El autor del Libro, con excepción de los apéndices, es, según los títulos ([1, 1](book#c1-v1); [10, 1](book#c10-v1); 25, 1), el rey Salomón, quien en sabiduría no tuvo igual (1 Reyes [5, 9](1-reyes#c5-v9) s.), atribuyéndole la Sagrada Escritura "3.000 sentencias y 1.005 canciones" (1 Reyes [4, 32](1-reyes#c4-v32)). El presente libro de los Proverbios contiene solamente 550, cuarenta de las cuales repetidas casi textualmente.
 
 Los exégetas creen que la última redacción del libro se hizo en tiempos de Esdras.
-
-
 
 #### PRÓLOGO
 
@@ -2022,12 +2019,7 @@ Los exégetas creen que la última redacción del libro se hizo en tiempos de Es
 
 [31] Dadle del fruto de sus manos, y sus obras sean su alabanza ante el pueblo.
 
-
 <!--Total de referencias: 425-->
 <!--Rango original de referencias: 5685 - 6109-->
-
-
-
-
 
 ## Comentarios de Mons. Straubinger

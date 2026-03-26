@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Primera carta del apóstol san Pedro
-permalink: /1-pedro
+aliases: [1 Pedro]
 ---
 
 ## [Introducción a las cartas de san Pedro](cartas-de-san-pedro)

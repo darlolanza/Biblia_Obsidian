@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Carta a los Gálatas
-permalink: /galatas
+aliases: [Gálatas]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -355,7 +354,6 @@ permalink: /galatas
 [17] En adelante nadie me importune más, pues las señales de Jesús las llevo yo (hasta) en mi cuerpo. "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu, hermanos. Amén.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) Los habitantes de **Galacia**, provincia del Asia Menor, fueron ganados al Evangelio por S. Pablo en su segundo y tercer viaje apostólico. Poco después llegaron judíos o judío-cristianos que les enseñaban "otro Evangelio", es decir, un Jesucristo deformado y estéril, exigiendo que se circuncidasen y cumpliesen la Ley mosaica, y pretendiendo que el hombre es capaz de salvarse por sus obras, sin la gracia de Cristo. Además sembraban desconfianza contra el apóstol, diciendo que él no había sido autorizado por las primeros apóstoles y que su doctrina no estaba en armonía con la de aquellos.
 

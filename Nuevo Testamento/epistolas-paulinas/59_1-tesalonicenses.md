@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Primera carta a los Tesalonicenses
-permalink: /1-tesalonicenses
+aliases: [1 Tesalonicenses]
 ---
 
 ## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
@@ -217,7 +216,6 @@ permalink: /1-tesalonicenses
 [28] La gracia de nuestro Señor Jesucristo sea con vosotros.
 
 ## Comentarios de Mons. Straubinger
-
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) **Tesalónica** (hoy Salónica), capital de Macedonia, recibió la luz del Evangelio en el segundo viaje apostólico de S. Pablo. No pudiendo detenerse allí a causa de la sedición de los judíos, el apóstol se dirige a ellos mediante esta carta, escrita en Corinto hacia el año 52 —es decir que es la primera de todas las epístolas— para confirmarlos en los fundamentos de la fe y la vocación de la santidad, y consolarlos acerca de los muertos con los admirables anuncios que les revela sobre la resurrección y la segunda venida de Cristo.
 
